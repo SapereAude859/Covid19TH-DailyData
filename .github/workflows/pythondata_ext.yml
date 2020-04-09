@@ -39,14 +39,14 @@ jobs:
       run: |
         python Covid19_TH_dailyData.py
     # Automatically commits files which have been changed during the workflow run and push changes back to remote repository
-    - name: Get current time
-      uses: gerred/actions/current-time@master
-      id: current-time
+    - name: Get Current Thai Time
+      uses: pluz85/thai-current-time@master
+      id: thai-current-time
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
       with:
         # Commit message
-        commit_message: Test Extraction on Git ✨ ${{ steps.current-time.outputs.time }}
+        commit_message: Test Extraction on Git ✨ ${{ steps.current-time.outputs.thaiTime }}
         # Git branch name, where changes should be pushed too. Required if Action is used on the `pull_request` event
         branch: ${{ github.head_ref }}
         # Commit options (eg. --no-verify)
