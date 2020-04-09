@@ -42,14 +42,11 @@ jobs:
     - name: Get current time
       uses: gerred/actions/current-time@master
       id: current-time
-    - name: Use current time
-      env:
-        TIME: "${{ steps.current-time.outputs.time }}" 
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
       with:
         # Commit message
-        commit_message: Test Extraction on Git ✨ $TIME
+        commit_message: Test Extraction on Git ✨ ${{ steps.current-time.outputs.time }}
         # Git branch name, where changes should be pushed too. Required if Action is used on the `pull_request` event
         branch: ${{ github.head_ref }}
         # Commit options (eg. --no-verify)
