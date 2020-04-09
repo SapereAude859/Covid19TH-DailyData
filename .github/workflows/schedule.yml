@@ -44,3 +44,4 @@ jobs:
         branch: ${{ github.head_ref }}
         # Commit options (eg. --no-verify)
         commit_user_name: Schedule Bot 🤖
+        tagging_message: 'v1.0.0'
