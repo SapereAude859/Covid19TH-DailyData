@@ -39,7 +39,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
       with:
         # Commit message
-        commit_message: Test Extraction on Git ✨ ${{date}}
+        commit_message: Test Extraction on Git ✨ ${{ github.date }}
         # Git branch name, where changes should be pushed too. Required if Action is used on the `pull_request` event
         branch: ${{ github.head_ref }}
         # Commit options (eg. --no-verify)
