@@ -19,6 +19,9 @@
 >|    `timeline.*`   | ข้อมูลสรุปตามช่วงเวลา (เริ่มตั้งแต่วันที่ 01/01/20) | [Covid19.th-Stat](https://covid19.th-stat.com/) |      [timeline.xlsx](https://github.com/pluz85/Covid19TH-DailyData/raw/master/dataset/xlsx/timeline.xlsx)      |      [timeline.csv](https://github.com/pluz85/Covid19TH-DailyData/raw/master/dataset/csv/timeline.csv)      |      [timeline.json](https://github.com/pluz85/Covid19TH-DailyData/raw/master/dataset/json/timeline.json)      |
 
 
+### 📦 หรือสามารถ Download รวมทุกไฟล์เพื่อความสะดวก [dataset.zip](https://github.com/pluz85/Covid19TH-DailyData/raw/master/dataset.zip)
+
+
 ## ตัวอย่างข้อมูล 💽
 
 >   `covid-tracker.*`
