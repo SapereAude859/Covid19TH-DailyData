@@ -1,7 +1,7 @@
 from py_mini_racer import py_mini_racer
 from requests_html import HTMLSession
 from script import utility as util
-from script.export_data import ExportData as Export
+from script.export_data import ExportData as Export, ZipData as Zip
 
 session = HTMLSession()
 
@@ -15,7 +15,8 @@ def covid_tracker():
         function = util.m_func(raw_script)
         data_exe = ctx.execute(function)
         cases_data = data_exe['state']['cases']
-        Export(cases_data, 'covid-tracker').all_type()
+        Export(cases_data, 'covid-tracker')
+        print('Extract Covid-Tracker Successful')
 
 
 def covid_daily():
@@ -26,10 +27,13 @@ def covid_daily():
         if r.status_code == 200:
             api_data = r.json()['Data']
             util.c_list(api_data)
-            Export(api_data, endpoint).all_type()
+            Export(api_data, endpoint)
+            print('Extract ', endpoint, ' Successful')
 
 
 def run():
+    print('Initiate Data Extraction')
     covid_tracker()
     covid_daily()
-    print('Export Data Successful')
+    Zip()
+    print('Export Data and Zip Successful')
