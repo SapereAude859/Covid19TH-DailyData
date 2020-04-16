@@ -36,7 +36,7 @@ jobs:
         python Covid19_TH_dailyData.py
     # Automatically commits files which have been changed during the workflow run and push changes back to remote repository
     - name: Thai Current Time
-      uses: pluz85/thai-current-time@1.0
+      uses: pluz85/thai-current-time@1.1
       id: thai-current-time
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.1.2
