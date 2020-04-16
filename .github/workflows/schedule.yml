@@ -23,7 +23,7 @@ jobs:
       run: python Covid19_TH_dailyData.py
       
     - name: Thai Current Time
-      uses: pluz85/thai-current-time@1.0
+      uses: pluz85/thai-current-time@1.1
       id: thai-current-time
 
     - name: Git Auto Commit
