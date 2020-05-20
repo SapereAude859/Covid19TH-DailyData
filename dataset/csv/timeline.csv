@@ -139,3 +139,4 @@ Date,NewConfirmed,NewRecovered,NewHospitalized,NewDeaths,Confirmed,Recovered,Hos
 05/17/2020,3,1,2,0,3028,2856,116,56
 05/18/2020,3,1,2,0,3031,2857,118,56
 05/19/2020,2,0,2,0,3033,2857,120,56
+05/20/2020,1,31,-30,0,3034,2888,90,56
