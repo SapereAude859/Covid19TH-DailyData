@@ -1,4 +1,6 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-06-06 00:00:00,3104,39.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,ห้วยขวาง,Bangkok,,1
+2020-06-06 00:00:00,3103,22.0,ชาย,Male,ไทย,Thai,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-05 00:00:00,3102,45.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-06-04 00:00:00,3101,24.0,ชาย,Male,ไทย,Thai,สมุทรปราการ,60,บางเสาธง,Samut Prakan,,1
 2020-06-04 00:00:00,3100,44.0,หญิง,Female,ไทย,Thai,สมุทรปราการ,60,บางเสาธง,Samut Prakan,,1
