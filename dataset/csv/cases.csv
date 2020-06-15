@@ -1,4 +1,5 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-06-14 00:00:00,3135,25.0,หญิง,Female,ไทย,Thai,กรุงเทพมหานคร,1,พระนคร,Bangkok,,1
 2020-06-13 00:00:00,3134,24.0,ชาย,Male,ไทย,Thai,สมุทรปราการ,60,,Samut Prakan,,1
 2020-06-13 00:00:00,3133,26.0,ชาย,Male,ไทย,Thai,สมุทรปราการ,60,,Samut Prakan,,1
 2020-06-13 00:00:00,3132,26.0,ชาย,Male,ไทย,Thai,ฉะเชิงเทรา,8,,Chachoengsao,,1
@@ -75,7 +76,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-05-28 00:00:00,3061,31.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-05-28 00:00:00,3060,27.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1, ,Bangkok,,1
 2020-05-28 00:00:00,3059,44.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
-2020-05-28 00:00:00,3058,51.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
+2020-05-28 00:00:00,3058,51.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-05-28 00:00:00,3057,47.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-05-28 00:00:00,3056,39.0,ชาย,Male,ไทย,Thai,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-05-28 00:00:00,3055,32.0,หญิง,Female,ไทย,Thai,สมุทรปราการ,60,บางบ่อ,Samut Prakan,,1
