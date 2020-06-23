@@ -1,4 +1,9 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-06-23 00:00:00,3156,30.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-06-23 00:00:00,3155,26.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-06-23 00:00:00,3154,52.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-06-23 00:00:00,3153,22.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-06-23 00:00:00,3152,31.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-06-22 00:00:00,3151,11.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-22 00:00:00,3150,21.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-22 00:00:00,3149,34.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
@@ -1511,7 +1516,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-03-31 00:00:00,1618,26.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,จตุจักร,Bangkok,,0
 2020-03-31 00:00:00,1617,54.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,สุขุมวิท,Bangkok,,0
 2020-03-31 00:00:00,1616,34.0,ชาย,Male,Thailand,,ภูเก็ต,42,,Phuket,,0
-2020-03-31 00:00:00,1615,38.0,หญิง,Female,Thailand,,ภูเก็ต,42,NA,Phuket,,0
+2020-03-31 00:00:00,1615,38.0,หญิง,Female,Thailand,,ภูเก็ต,42,,Phuket,,0
 2020-03-31 00:00:00,1614,59.0,ชาย,Male,Thailand,,ภูเก็ต,42,เมือง,Phuket,,0
 2020-03-31 00:00:00,1613,30.0,หญิง,Female,Thailand,,ภูเก็ต,42,เมือง,Phuket,,0
 2020-03-31 00:00:00,1612,44.0,หญิง,Female,Thailand,,อุบลราชธานี,77,บุณฑริก,Ubon Ratchathani,,0
@@ -1963,7 +1968,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-03-28 00:00:00,1190,23.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,0
 2020-03-28 00:00:00,1189,27.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,จอมทอง,Bangkok,,0
 2020-03-28 00:00:00,1188,42.0,หญิง,Female,Thailand,,ภูเก็ต,42,เมือง,Phuket,,0
-2020-03-28 00:00:00,1187,28.0,ชาย,Male,Uzbekistan,,ภูเก็ต,42,NA,Phuket,,0
+2020-03-28 00:00:00,1187,28.0,ชาย,Male,Uzbekistan,,ภูเก็ต,42,,Phuket,,0
 2020-03-28 00:00:00,1186,30.0,หญิง,Female,Thailand,,ชัยภูมิ,11,เนินสง่า,Chaiyaphum,,0
 2020-03-30 00:00:00,1185,26.0,หญิง,Female,Thailand,,สุรินทร์,69,ท่าตูม,Surin,,0
 2020-03-28 00:00:00,1184,35.0,หญิง,Female,Thailand,,เชียงใหม่,14,,Chiang Mai,,0
