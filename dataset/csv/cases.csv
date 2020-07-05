@@ -1,15 +1,20 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
-2020-07-03 00:00:00,3180,24.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-04 00:00:00,3185,41.0,หญิง,Female,Thailand,,ชลบุรี,9,เมือง,Chonburi,,1
+2020-07-04 00:00:00,3184,25.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-07-04 00:00:00,3183,25.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-07-04 00:00:00,3182,23.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-07-04 00:00:00,3181,38.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,บางนา,Bangkok,,1
+2020-07-03 00:00:00,3180,24.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-07-02 00:00:00,3179,21.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-07-02 00:00:00,3178,20.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-07-02 00:00:00,3177,21.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-07-02 00:00:00,3176,62.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-07-01 00:00:00,3173,48.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
+2020-07-01 00:00:00,3173,47.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-01 00:00:00,3172,47.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-02 00:00:00,3174,43.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-07-02 00:00:00,3175,37.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-06-30 00:00:00,3171,28.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-06-30 00:00:00,3170,27.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-06-30 00:00:00,3171,28.0,ชาย,Male,Thailand,,ชลบุรี,9,พััทยา,Chonburi,,1
+2020-06-30 00:00:00,3170,27.0,ชาย,Male,Thailand,,ชลบุรี,9,พัทยา,Chonburi,,1
 2020-06-29 00:00:00,3169,27.0,หญิง,Female,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-06-29 00:00:00,3168,28.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
 2020-06-29 00:00:00,3167,61.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
@@ -30,7 +35,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-06-23 00:00:00,3152,31.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-06-22 00:00:00,3151,11.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-22 00:00:00,3150,21.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-06-22 00:00:00,3149,34.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-06-22 00:00:00,3149,33.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-21 00:00:00,3148,6.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-20 00:00:00,3147,28.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-06-19 00:00:00,3146,26.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
@@ -2684,7 +2689,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-03-22 00:00:00,493,52.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,0
 2020-03-22 00:00:00,492,40.0,หญิง,Female,UnitedKingdom,,กรุงเทพมหานคร,1,,Bangkok,,0
 2020-03-22 00:00:00,491,62.0,ชาย,Male,Italy,,ภูเก็ต,42,ถลาง,Phuket,,0
-2020-03-22 00:00:00,490,66.0,ชาย,Male,Switzerland,Swiss,เชียงใหม่,14,,Chiang Mai,,0
+2020-03-22 00:00:00,490,66.0,ชาย,Male,Switzerland,Swiss,เชียงใหม่,14,สันทราย,Chiang Mai,,0
 2020-03-22 00:00:00,518,25.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,0
 2020-03-22 00:00:00,489,54.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,0
 2020-03-22 00:00:00,488,50.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,0
