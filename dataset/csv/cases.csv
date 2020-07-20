@@ -1,4 +1,5 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-07-20 00:00:00,3250,52.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
 2020-07-19 00:00:00,3249,39.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-19 00:00:00,3248,43.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-19 00:00:00,3247,60.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
@@ -19,7 +20,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-07-15 00:00:00,3232,35.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-07-15 00:00:00,3231,27.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-07-15 00:00:00,3230,49.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
-2020-07-15 00:00:00,3229,43.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
+2020-07-15 00:00:00,3229,41.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-15 00:00:00,3228,48.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
 2020-07-14 00:00:00,3227,66.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,จตุจักร,Bangkok,,1
 2020-07-14 00:00:00,3226,20.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
