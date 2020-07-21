@@ -201,3 +201,4 @@ Date,NewConfirmed,NewRecovered,NewHospitalized,NewDeaths,Confirmed,Recovered,Hos
 07/18/2020,7,0,7,0,3246,3096,92,58
 07/19/2020,3,0,3,0,3249,3096,95,58
 07/20/2020,1,0,1,0,3250,3096,96,58
+07/21/2020,5,9,-4,0,3255,3105,92,58
