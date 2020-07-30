@@ -1,4 +1,11 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-07-30 00:00:00,3304,50.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-30 00:00:00,3303,27.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-30 00:00:00,3302,25.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-30 00:00:00,3301,25.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-30 00:00:00,3300,23.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-30 00:00:00,3299,21.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
+2020-07-29 00:00:00,3298,26.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,สัตหีบ,Bangkok,,1
 2020-07-28 00:00:00,3297,25.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,สัตหีบ,Bangkok,,1
 2020-07-28 00:00:00,3296,22.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,สัตหีบ,Bangkok,,1
 2020-07-27 00:00:00,3295,21.0,หญิง,Female,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
@@ -6,10 +13,10 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-07-27 00:00:00,3293,44.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-07-27 00:00:00,3292,30.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
 2020-07-26 00:00:00,3291,30.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
-2020-07-26 00:00:00,3290,19.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-07-26 00:00:00,3289,45.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-07-26 00:00:00,3288,43.0,หญิง,Female,Thailand,,ชลบุรี,9,,Chonburi,,1
-2020-07-26 00:00:00,3287,30.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-07-26 00:00:00,3290,19.0,ชาย,Male,Thailand,,ชลบุรี,9,พัทยา,Chonburi,,1
+2020-07-26 00:00:00,3289,47.0,หญิง,Female,Thailand,,ชลบุรี,9,พัทยา,Chonburi,,1
+2020-07-26 00:00:00,3288,42.0,หญิง,Female,Thailand,,ชลบุรี,9,พัทยา,Chonburi,,1
+2020-07-26 00:00:00,3287,29.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-07-26 00:00:00,3286,48.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-26 00:00:00,3285,49.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-26 00:00:00,3284,23.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
