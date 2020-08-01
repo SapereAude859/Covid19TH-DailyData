@@ -1,4 +1,6 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-08-01 00:00:00,3312,29.0,ชาย,Male,Serbia,,บุรีรัมย์,28,,Buriram,,1
+2020-08-01 00:00:00,3311,41.0,ชาย,Male,Finland,,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-07-31 00:00:00,3310,28.0,ชาย,Male,Thailand,,ฉะเชิงเทรา,8,,Chachoengsao,,1
 2020-07-31 00:00:00,3309,52.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
 2020-07-31 00:00:00,3308,24.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
