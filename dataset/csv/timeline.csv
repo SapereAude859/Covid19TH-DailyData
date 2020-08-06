@@ -217,3 +217,4 @@ Date,NewConfirmed,NewRecovered,NewHospitalized,NewDeaths,Confirmed,Recovered,Hos
 08/03/2020,3,0,3,0,3320,3142,120,58
 08/04/2020,1,0,1,0,3321,3142,121,58
 08/05/2020,7,2,5,0,3328,3144,126,58
+08/06/2020,2,4,-2,0,3330,3148,124,58
