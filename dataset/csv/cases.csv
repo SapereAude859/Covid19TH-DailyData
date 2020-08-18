@@ -1,5 +1,10 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
-2020-08-16 00:00:00,3376,47.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
+2020-08-18 00:00:00,3381,62.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
+2020-08-18 00:00:00,3380,49.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
+2020-08-18 00:00:00,3379,38.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
+2020-08-17 00:00:00,3378,24.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-16 00:00:00,3377,47.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
+2020-08-14 00:00:00,3376,25.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-08-14 00:00:00,3375,72.0,ชาย,Male,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3374,45.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3373,41.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
@@ -19,13 +24,13 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-08-13 00:00:00,3359,30.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-13 00:00:00,3358,30.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-13 00:00:00,3357,53.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-08-11 00:00:00,3356,29.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-08-11 00:00:00,3355,24.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-08-11 00:00:00,3354,23.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-08-11 00:00:00,3353,18.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,จตุจักร,Bangkok,,1
-2020-08-11 00:00:00,3352,50.0,ชาย,Male,UnitedStatesofAmerica,,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2020-08-12 00:00:00,3356,29.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-12 00:00:00,3355,24.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-12 00:00:00,3354,23.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-12 00:00:00,3353,18.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,จตุจักร,Bangkok,,1
+2020-08-12 00:00:00,3352,50.0,ชาย,Male,UnitedStatesofAmerica,,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
 2020-08-09 00:00:00,3351,30.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
-2020-08-08 00:00:00,3350,41.0,หญิง,Female,India,,กรุงเทพมหานคร,1,,Bangkok,,1
+2020-08-09 00:00:00,3350,41.0,หญิง,Female,India,,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-08-09 00:00:00,3349,31.0,ชาย,Male,Bangladesh,,กรุงเทพมหานคร,1,,Bangkok,,1
 2020-08-08 00:00:00,3348,32.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
 2020-08-08 00:00:00,3346,24.0,ชาย,Male,Thailand,,ชลบุรี,9,,Chonburi,,1
