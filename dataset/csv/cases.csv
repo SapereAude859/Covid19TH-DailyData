@@ -1,10 +1,18 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-08-20 00:00:00,3389,33.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
+2020-08-20 00:00:00,3388,46.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,,Bangkok,,1
+2020-08-20 00:00:00,3387,38.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
+2020-08-20 00:00:00,3386,28.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
+2020-08-20 00:00:00,3385,51.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-20 00:00:00,3384,51.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-20 00:00:00,3383,21.0,หญิง,Female,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-19 00:00:00,3382,37.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-18 00:00:00,3381,62.0,ชาย,Male,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-18 00:00:00,3380,49.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
 2020-08-18 00:00:00,3379,38.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
 2020-08-17 00:00:00,3378,24.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-08-16 00:00:00,3377,47.0,ชาย,Male,Thailand,,สมุทรปราการ,60,,Samut Prakan,,1
-2020-08-14 00:00:00,3376,25.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-14 00:00:00,3376,25.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุุง,Chonburi,,1
 2020-08-14 00:00:00,3375,72.0,ชาย,Male,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3374,45.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3373,41.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
@@ -20,7 +28,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-08-14 00:00:00,3363,14.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3362,12.0,หญิง,Female,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
 2020-08-14 00:00:00,3361,12.0,ชาย,Male,Thailand,,ชลบุรี,9,สัตหีบ,Chonburi,,1
-2020-08-14 00:00:00,3360,54.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-08-14 00:00:00,3360,54.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุุง,Chonburi,,1
 2020-08-13 00:00:00,3359,30.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-13 00:00:00,3358,30.0,หญิง,Female,Thailand,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
 2020-08-13 00:00:00,3357,53.0,ชาย,Male,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
