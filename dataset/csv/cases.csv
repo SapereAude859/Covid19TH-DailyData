@@ -1,4 +1,6 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-08-27 00:00:00,3404,0,35,,India,,กรุงเทพมหานคร,1,ห้วยขวาง,Bangkok,,0
+2020-08-26 00:00:00,3403,0,38,,Thailand,,กรุงเทพมหานคร,1,จตุจักร,Bangkok,,1
 2020-08-25 00:00:00,3402,0,47,,Thailand,,กรุงเทพมหานคร,1,บางกะปิ,Bangkok,,1
 2020-08-25 00:00:00,3401,0,20,,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-08-25 00:00:00,3400,0,27,,Thailand,,ชลบุรี,9,บางละมุง,Chonburi,,1
