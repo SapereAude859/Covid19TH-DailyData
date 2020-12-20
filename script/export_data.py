@@ -9,9 +9,14 @@ extensions = ['csv', 'xlsx', 'json']
 
 class ExportData:
     def __init__(self, data, name):
-        self.df = pd.DataFrame(data)
-        self.name = name
-        self.all_type()
+        try:
+            self.df = pd.DataFrame(data)
+            self.name = name
+            self.all_type()
+        except ValueError:
+            self.df = pd.read_excel(data, engine='openpyxl')
+            self.name = name
+            self.all_type()
 
     def all_type(self):
         for extension in extensions:

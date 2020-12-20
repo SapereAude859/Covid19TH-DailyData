@@ -31,9 +31,19 @@ def covid_daily():
             print('Extract ', endpoint, ' Successful')
 
 
+def covid_data_gov():
+    data_gov = 'https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/24ac8406-0cf9-4f8e-a55e' \
+               '-b53cf6766d1a/download/pm-covid19-adj.xlsx '
+    r = session.get(data_gov)
+    if r.status_code == 200:
+        Export(data_gov, 'Data-Gov')
+        print('Extract ', 'Data-Gov', ' Successful')
+
+
 def run():
     print('Initiate Data Extraction')
     covid_tracker()
     covid_daily()
+    covid_data_gov()
     Zip()
     print('Export Data and Zip Successful')
