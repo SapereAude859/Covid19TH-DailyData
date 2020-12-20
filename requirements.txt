@@ -6,9 +6,9 @@ chardet==3.0.4
 cssselect==1.1.0
 fake-useragent==0.1.11
 idna==2.9
-lxml==4.5.0
-numpy==1.18.2
-pandas==1.0.3
+lxml==4.6.2
+numpy==1.19.4
+pandas==1.1.5
 parse==1.15.0
 py-mini-racer==0.4.0
 pyee==7.0.1
