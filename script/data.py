@@ -23,12 +23,16 @@ def covid_daily():
     url = 'https://covid19.th-stat.com/api/open/'
     endpoints = ['cases', 'timeline', 'area']
     for endpoint in endpoints:
-        r = session.get(url + endpoint)
-        if r.status_code == 200:
+        r = session.get(url + endpoint, allow_redirects=False)
+        if r.status_code == 301:
+            print('Api Not Working Redirect to https://ddc.moph.go.th/viralpneumonia/')
+        elif r.status_code == 200:
             api_data = r.json()['Data']
             util.c_list(api_data)
             Export(api_data, endpoint)
             print('Extract ', endpoint, ' Successful')
+        else:
+            print('Api Not Working Technical Problem')
 
 
 def covid_data_gov():
