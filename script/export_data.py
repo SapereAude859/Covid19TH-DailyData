@@ -1,10 +1,13 @@
 import os
+from rich.console import Console
 import pandas as pd
+from tabulate import tabulate
 from pathlib import Path
 import zipfile
 
 dataset_path = Path()
 extensions = ['csv', 'xlsx', 'json']
+console = Console(color_system="256")
 
 
 class ExportData:
@@ -12,11 +15,22 @@ class ExportData:
         try:
             self.df = pd.DataFrame(data)
             self.name = name
+            self.print_recent()
             self.all_type()
+            console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
         except ValueError:
-            self.df = pd.read_excel(data, engine='openpyxl')
+            self.df = pd.read_excel(data, engine='openpyxl').round()
+            self.df = self.df.loc[:, ~self.df.columns.str.match("Unnamed")]
             self.name = name
+            self.print_recent()
+            self.df.no = self.df.no.apply(int)
             self.all_type()
+            console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
+
+    def print_recent(self):
+        console.print('> File Name ' + self.name + '.*' + '\n', style='green on black')
+        console.print(tabulate(self.df.tail(), headers='keys', showindex=False, tablefmt='grid'), overflow='ignore', crop=False,
+                      style="color(5)")
 
     def all_type(self):
         for extension in extensions:
@@ -41,6 +55,7 @@ class ZipData:
         self.dir_name = dataset_path / 'dataset'
         self.file_paths = []
         self.zip()
+        console.print('>>> Export Data and Zip Successful', style='blue on black')
 
     def get_file_path(self):
         for root, directories, files in os.walk(self.dir_name):

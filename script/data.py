@@ -16,7 +16,8 @@ def covid_tracker():
         data_exe = ctx.execute(function)
         cases_data = data_exe['state']['cases']
         Export(cases_data, 'covid-tracker')
-        print('Extract Covid-Tracker Successful')
+    else:
+        print('Source Not Working Technical Problem')
 
 
 def covid_daily():
@@ -30,7 +31,6 @@ def covid_daily():
             api_data = r.json()['Data']
             util.c_list(api_data)
             Export(api_data, endpoint)
-            print('Extract ', endpoint, ' Successful')
         else:
             print('Api Not Working Technical Problem')
 
@@ -41,13 +41,13 @@ def covid_data_gov():
     r = session.get(data_gov)
     if r.status_code == 200:
         Export(data_gov, 'Data-Gov')
-        print('Extract ', 'Data-Gov', ' Successful')
+    else:
+        print('Source Not Working Technical Problem')
 
 
 def run():
-    print('Initiate Data Extraction')
+    print('===== Initiate Data Extraction Covid-19 Thailand Data From Available Sources =====' + '\n')
     covid_tracker()
     covid_daily()
     covid_data_gov()
     Zip()
-    print('Export Data and Zip Successful')
