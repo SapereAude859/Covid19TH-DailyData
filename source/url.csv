@@ -1,0 +1,6 @@
+title,url,alias
+แผนที่ข่าว COVID-19 🔍 – ติดตามข่าว COVID-19 ล่าสุด #Covid_19 #Covidtracker,https://covidtracker.5lab.co/,tracker
+Api covid19.th-stat.com - ข้อมูลแต่ละเคส,https://covid19.th-stat.com/api/open/cases,cases
+Api covid19.th-stat.com - ข้อมูลสรุปตามช่วงเวลา (เริ่มตั้งแต่วันที่ 01/01/20),https://covid19.th-stat.com/api/open/timeline,timeline
+Api covid19.th-stat.com - ข้อมูลแจ้งเตือนพื้นที่ตามคำประกาศ,https://covid19.th-stat.com/api/open/area,area
+ข้อมูล Covid-19 ประจำวันจาก Data.go.th,https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/24ac8406-0cf9-4f8e-a55e-b53cf6766d1a/download/pm-covid19-adjusted.xlsx,data_gov

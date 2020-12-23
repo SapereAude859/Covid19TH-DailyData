@@ -1,6 +1,5 @@
 import os
 from rich.console import Console
-import pandas as pd
 from tabulate import tabulate
 from pathlib import Path
 import zipfile
@@ -12,20 +11,11 @@ console = Console(color_system="256")
 
 class ExportData:
     def __init__(self, data, name):
-        try:
-            self.df = pd.DataFrame(data)
-            self.name = name
-            self.print_recent()
-            self.all_type()
-            console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
-        except ValueError:
-            self.df = pd.read_excel(data, engine='openpyxl').round()
-            self.df = self.df.loc[:, ~self.df.columns.str.match("Unnamed")]
-            self.name = name
-            self.print_recent()
-            self.df.no = self.df.no.apply(int)
-            self.all_type()
-            console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
+        self.df = data
+        self.name = name
+        self.print_recent()
+        self.all_type()
+        console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
 
     def print_recent(self):
         console.print('> File Name ' + self.name + '.*' + '\n', style='green on black')

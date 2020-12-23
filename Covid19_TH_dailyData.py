@@ -1,4 +1,4 @@
-from script import app
+import script
 
 if __name__ == '__main__':
-    app.run()
+    script
