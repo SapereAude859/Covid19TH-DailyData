@@ -29,7 +29,6 @@
 
 
 ```python
-print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 
 +----+-----------+------------------+-----------------+---------+---------+-------+----------+---------------+--------+-----------------+-----------------------------------------------------------------------------------------+--------------------------------------------+------+
 |    | status    | date             | placename       |     lat |     lng |   age | gender   | nationality   | from   | patientstatus   | note                                                                                    | source                                     |   id |
@@ -50,7 +49,6 @@ print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 >   `area.*`
 
 ```python
-print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 
 +----+-------------------------------+---------------------+----------+-----------------------------------------------------------------------------------------------------------------------+-------------+--------------------------------------------+------------+--------------+---------------------+
 |    | Date                          | Time                | Detail   | Location                                                                                                              | Recommend   | AnnounceBy                                 | Province   | ProvinceEn   | Update              |
@@ -72,7 +70,6 @@ print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 >   `cases.*`
 
 ```python
-print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 
 +----+---------------------+------+-------+----------+------------+----------+------------+------------+--------------+------------+--------------+----------+
 |    | ConfirmDate         |   No |   Age | Gender   | GenderEn   | Nation   | NationEn   | Province   |   ProvinceId | District   | ProvinceEn   | Detail   |
@@ -93,7 +90,6 @@ print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 >   `timeline.*`
 
 ```python
-print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 
 +----+------------+----------------+----------------+-------------------+-------------+-------------+-------------+----------------+----------+
 |    | Date       |   NewConfirmed |   NewRecovered |   NewHospitalized |   NewDeaths |   Confirmed |   Recovered |   Hospitalized |   Deaths |
@@ -113,7 +109,6 @@ print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 >   `Data-Gov.*`
 
 ```python
-print(tabulate(df.head(), headers='keys', tablefmt='grid'))
 
 +------+-------+-------+---------------+-------------------------+---------------------+---------------------+---------------------+---------------------+----------------------------------------------+
 |   no |   age | sex   | nationality   | province_of_isolation   | notification_date   | announce_date       | province_of_onset   | district_of_onset   | quarantine                                   |
