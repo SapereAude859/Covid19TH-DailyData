@@ -10,9 +10,10 @@ console = Console(color_system="256")
 
 
 class ExportData:
-    def __init__(self, data, name):
+    def __init__(self, data, name, path):
         self.df = data
         self.name = name
+        self.path = path
         self.print_recent()
         self.all_type()
         console.print('>> File Name ' + self.name + '.*' + ' Successful' + '\n', style='green on red')
@@ -24,7 +25,7 @@ class ExportData:
 
     def all_type(self):
         for extension in extensions:
-            path = dataset_path / 'dataset' / extension
+            path = dataset_path / self.path / extension
             filename = f'{self.name}.{extension}'
             path.parent.mkdir(exist_ok=True)
             if extension == 'csv':
@@ -41,11 +42,12 @@ class ExportData:
 
 
 class ZipData:
-    def __init__(self):
-        self.dir_name = dataset_path / 'dataset'
+    def __init__(self, path):
+        self.path = path
+        self.dir_name = dataset_path / self.path
         self.file_paths = []
         self.zip()
-        console.print('>>> Export Data and Zip Successful', style='blue on black')
+        console.print('>>> Export Data and Zip ' + self.path + ' Successful', style='blue on black')
 
     def get_file_path(self):
         for root, directories, files in os.walk(self.dir_name):
