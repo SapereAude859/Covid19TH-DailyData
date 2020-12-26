@@ -61,3 +61,5 @@ id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,
 88,patient_has_been_here,2020-12-24,สาธร ซิตี้ ทาวเวอร์,13.721681,100.53,0,unknown,Thai,Thailand,unknown,พนักงานสาธรซิตี้ ทาวเวอร์ ติดโควิด,https://www.matichon.co.th/covid19/news_2500693,0
 89,confirmed,2020-12-24,วัดเล่งเนยยี่ 2,13.9134431,100.4220473,0,female,Burmese,Thailand,unknown,พบ 2 แม่ครัวชาวเมียนม่า ทำงานโรงครัววัดเล่งเน่ยยี่ 2 บางบัวทอง ติดโควิด-19,https://www.khaosod.co.th/covid-19/news_5610412,0
 90,sanitized,2020-12-26,ทำเนียบรัฐบาล,13.7636001,100.5114624,0,0,0,0,unknown,ผลตรวจซ้ำเจ้าหน้าที่ในทำเนียบรัฐบาล 6 ราย ไม่พบเชื้อ และได้มีการทำความสะอาดพ่นฆ่าเชื้อในทำเนียบรัฐบาลเรียบร้อยแล้ว,https://www.thairath.co.th/news/politic/2001897,0
+91,confirmed,2020-12-26,ร้านนิตยาไก่ย่าง,13.734066,100.5278354,0,0,0,0,0,ปิด “นิตยาไก่ย่าง” 3 วัน ในสามย่านมิตรทาวน์ หลังพบผู้ติดโควิดใช้บริการ,https://www.prachachat.net/marketing/news-582754,0
+92,unspecified_location,2020-12-26,บ่อนใน อ.เมืองระยอง และ มาบตาพุด,12.6483736,101.2273679,0,0,0,0,0,ระยองพบติดเชื้อโควิดเพิ่ม 37 ราย จากบ่อนพนันในอ.เมืองระยอง และมาบตาพุด,https://www.prachachat.net/general/news-582764,0
