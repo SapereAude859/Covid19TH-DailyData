@@ -1,4 +1,84 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2020-12-27 17:25:35,4682,49.0,ชาย,Male,Thailand,Thailand,ราชบุรี,51,ดำเนินสะดวก,Ratchaburi,,1
+2020-12-27 17:25:35,4681,58.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,พระประแดง,Bangkok,,1
+2020-12-27 17:25:35,4680,46.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2020-12-27 17:25:35,4679,10.0,ชาย,Male,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2020-12-27 17:25:35,4678,24.0,ชาย,Male,Thailand,Thailand,นครราชสีมา,21,เมือง,Nakhon Ratchasima,,1
+2020-12-27 17:25:35,4677,45.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:35,4676,55.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:35,4675,33.0,ชาย,Male,ไทใหญ่,,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:35,4674,49.0,ชาย,Male,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2020-12-27 17:25:35,4673,51.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:35,4672,56.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระประแดง,Samut Prakan,,1
+2020-12-27 17:25:35,4671,48.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,ดำเนินสะดวก,Ratchaburi,,1
+2020-12-27 17:25:35,4670,37.0,ชาย,Male,Thailand,Thailand,สตูล,59,ทุ่งหว้า,Satun,,1
+2020-12-27 17:25:35,4669,17.0,หญิง,Female,Thailand,Thailand,ฉะเชิงเทรา,8,บางปะกง,Chachoengsao,,1
+2020-12-27 17:25:35,4668,64.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:35,4667,28.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,พระประแดง,Samut Prakan,,1
+2020-12-27 17:25:35,4666,15.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2020-12-27 17:25:35,4665,23.0,หญิง,Female,Thailand,Thailand,สตูล,59,ทุ่งหว้า,Satun,,1
+2020-12-27 17:25:35,4664,41.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2020-12-27 17:25:35,4663,30.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2020-12-27 17:25:35,4662,57.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระประเเดง,Samut Prakan,,1
+2020-12-27 17:25:35,4661,3.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-12-27 17:25:34,4660,22.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2020-12-27 17:25:34,4659,22.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2020-12-27 17:25:34,4658,51.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2020-12-27 17:25:34,4657,31.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2020-12-27 17:25:34,4656,31.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2020-12-27 17:25:34,4655,55.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-12-27 17:25:34,4654,26.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางบ่อ,Samut Prakan,,1
+2020-12-27 17:25:34,4653,64.0,ชาย,Male,Thailand,Thailand,ฉะเชิงเทรา,8,บางปะกง,Chachoengsao,,1
+2020-12-27 17:25:34,4652,25.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2020-12-27 17:25:34,4651,17.0,หญิง,Female,Thailand,Thailand,ชัยภูมิ,11,เมือง,Chaiyaphum,,1
+2020-12-27 17:25:34,4650,43.0,ชาย,Male,Thailand,Thailand,ชัยภูมิ,11,เมือง,Chaiyaphum,,1
+2020-12-27 17:25:34,4649,11.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,พระประแดง,Samut Prakan,,1
+2020-12-27 17:25:34,4648,60.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2020-12-27 17:25:34,4647,52.0,ชาย,Male,Thailand,Thailand,นครราชสีมา,21,บัวใหญ่,Nakhon Ratchasima,,1
+2020-12-27 17:25:34,4646,46.0,หญิง,Female,Thailand,Thailand,นครราชสีมา,21,บัวใหญ่,Nakhon Ratchasima,,1
+2020-12-27 17:25:34,4645,32.0,ชาย,Male,Thailand,Thailand,เพชรบุรี,39,บ้านลาด,Phetchaburi,,1
+2020-12-27 17:25:34,4644,26.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:34,4643,67.0,ชาย,Male,Thailand,Thailand,พิจิตร,37,เมือง,Phichit,,1
+2020-12-27 17:25:34,4642,25.0,หญิง,Female,Russia,Russia,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2020-12-27 17:25:34,4641,32.0,หญิง,Female,Thailand,Thailand,ขอนแก่น,6,แวงใหญ่,Khon Kaen,,1
+2020-12-27 17:25:34,4640,31.0,หญิง,Female,Thailand,Thailand,ตรัง,15,เมือง,Trang,,1
+2020-12-27 17:25:34,4639,25.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4638,51.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4637,56.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุุนเทียน,Bangkok,,1
+2020-12-27 17:25:34,4636,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4635,48.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,คลองเตย,Bangkok,,1
+2020-12-27 17:25:34,4634,62.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ราชเทวี,Bangkok,,1
+2020-12-27 17:25:34,4633,59.0,ชาย,Male,Ireland,,กรุงเทพมหานคร,1,บางกะปิ,Bangkok,,1
+2020-12-27 17:25:34,4632,79.0,ชาย,Male,Germany,Germany,กรุงเทพมหานคร,1,วังทองหลาง,Bangkok,,1
+2020-12-27 17:25:34,4631,33.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:34,4630,52.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4629,27.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:34,4628,45.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4627,26.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2020-12-27 17:25:34,4626,75.0,ชาย,Male,Thailand,Thailand,เพชรบุรี,39,บ้านแหลม,Phetchaburi,,1
+2020-12-27 17:25:34,4625,35.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2020-12-27 17:25:34,4624,26.0,ชาย,Male,Ireland,,กรุงเทพมหานคร,1,บางกะปิ,Bangkok,,1
+2020-12-27 17:25:34,4623,37.0,ชาย,Male,Thailand,Thailand,ปทุมธานี,29,,Pathum Thani,,1
+2020-12-27 17:25:34,4622,54.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,ชะอำ,Phetchaburi,,1
+2020-12-27 17:25:34,4621,53.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,เมือง,Phetchaburi,,1
+2020-12-27 17:25:34,4620,35.0,หญิง,Female,Russia,Russia,กรุงเทพมหานคร,1,วัฒนะ,Bangkok,,1
+2020-12-27 17:25:34,4619,43.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,บ้านลาด,Phetchaburi,,1
+2020-12-27 17:25:34,4618,64.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,บ้านแหลม,Phetchaburi,,1
+2020-12-27 17:25:34,4617,60.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,เมือง,Phetchaburi,,1
+2020-12-27 17:25:34,4616,40.0,ชาย,Male,Thailand,Thailand,เพชรบุรี,39,บ้านเเหลม,Phetchaburi,,1
+2020-12-27 17:25:34,4615,45.0,ชาย,Male,Thailand,Thailand,เพชรบุรี,39,บ้านเเหลม,Phetchaburi,,1
+2020-12-27 17:25:34,4614,48.0,หญิง,Female,Thailand,Thailand,เพชรบุรี,39,บ้านแหลม,Phetchaburi,,1
+2020-12-27 17:25:34,4613,47.0,หญิง,Female,Thailand,Thailand,ชัยนาท,10,หันคา,Chainat,,1
+2020-12-27 17:25:34,4612,31.0,หญิง,Female,Thailand,Thailand,ชัยนาท,10,หันคา,Chainat,,1
+2020-12-27 17:25:34,4611,34.0,ชาย,Male,Thailand,Thailand,ชัยนาท,10,หันคา,Chainat,,1
+2020-12-27 17:25:34,4610,5.0,ชาย,Male,Thailand,Thailand,ชัยนาท,10,เมือง,Chainat,,1
+2020-12-27 17:25:34,4609,48.0,หญิง,Female,Thailand,Thailand,สงขลา,58,หาดใหญ่,Songkhla,,1
+2020-12-27 17:25:34,4608,41.0,หญิง,Female,Thailand,Thailand,ชัยนาท,10,เมือง,Chainat,,1
+2020-12-27 17:25:34,4607,44.0,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,ผักไห่,Phra Nakhon Si Ayutthaya,,1
+2020-12-27 17:25:34,4606,59.0,หญิง,Female,Thailand,Thailand,สระบุรี,64,พรุะพุทธบาท,Saraburi,,1
+2020-12-27 17:25:34,4605,38.0,หญิง,Female,Thailand,Thailand,สระบุรี,64,พรุะพุทธบาท,Saraburi,,1
+2020-12-27 17:25:34,4604,61.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2020-12-27 17:25:34,4603,40.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางใหญ่,Samut Prakan,,1
 2020-12-26 11:00:39,4566,28.0,ชาย,Male,Thailand,Thailand,ปทุมธานี,29,หนองเสือ,Pathum Thani,,1
 2020-12-26 11:00:39,4565,33.0,ชาย,Male,Thailand,Thailand,เชียงราย,13,ท่าขี้เหล็ก,Chiang Rai,,1
 2020-12-26 11:00:39,4564,34.0,หญิง,Female,Thailand,Thailand,ชัยภูมิ,11,เมือง,Chaiyaphum,,1
@@ -24,9 +104,9 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2020-12-25 14:50:40,4589,49.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,พระประเเดง,Samut Prakan,,1
 2020-12-25 14:50:40,4588,39.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
 2020-12-25 14:50:40,4587,41.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ลาดพร้าว,Bangkok,,1
-2020-12-25 14:50:40,4586,71.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
-2020-12-25 14:50:40,4585,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
-2020-12-25 14:50:40,4584,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
+2020-12-25 14:50:40,4586,71.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2020-12-25 14:50:40,4585,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
+2020-12-25 14:50:40,4584,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
 2020-12-25 14:50:40,4583,23.0,ชาย,Male,Thailand,Thailand,นครปฐม,19,เมือง,Nakhon Pathom,,1
 2020-12-25 14:50:40,4582,37.0,ชาย,Male,Russia,Russia,กรุงเทพมหานคร,1,มีนบุรี,Bangkok,,1
 2020-12-25 14:50:40,4581,54.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,หนองแขม,Bangkok,,1
