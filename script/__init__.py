@@ -30,11 +30,13 @@ for endpoint in endpoints:
         api_data = Import("https://covid19.th-stat.com/api/open/" + endpoint).daily()
         Export(api_data, endpoint, "dataset")
 
-
-data_gov = Import(url).gov()
-Export(data_gov, "Data-Gov", "dataset")
-data_gov_week = Week(data_gov).gov()
-Export(data_gov_week, "data-gov-week", "Recent 14Days Alert Data🔥")
+    data_gov = Import(url).gov()
+    Export(data_gov, "Data-Gov", "dataset")
+try:
+    data_gov_week = Week(data_gov).gov()
+    Export(data_gov_week, "data-gov-week", "Recent 14Days Alert Data🔥")
+except TypeError:
+    pass
 
 
 Zip("dataset")
