@@ -1,6 +1,7 @@
 from script.export_data import ExportData as Export, ZipData as Zip
 from script.import_data import ImportData as Import
 from script.week_analyze import WeekAnalyze as Week
+from script.new_wave_analyze import NewWave as Wave
 
 print(
     "===== Initiate Data Extraction Covid-19 Thailand Data From Available Sources ====="
@@ -18,7 +19,8 @@ cases_data = Import("https://covidtracker.5lab.co/").tracker()
 Export(cases_data, "covid-tracker", "dataset")
 cases_data_week = Week(cases_data).tracker()
 Export(cases_data_week, "covid-tracker-week", "Recent 14Days Alert Data🔥")
-
+new_wave_tracker = Wave(cases_data).tracker()
+Export(new_wave_tracker, "new-wave-tracker", "New Wave Data🔥")
 
 for endpoint in endpoints:
     if endpoint == "cases":
@@ -26,6 +28,8 @@ for endpoint in endpoints:
         Export(api_data, endpoint, "dataset")
         cases_api_week = Week(api_data).cases()
         Export(cases_api_week, "cases_week", "Recent 14Days Alert Data🔥")
+        new_wave_cases = Wave(api_data).cases()
+        Export(new_wave_cases, "new-wave-cases", "New Wave Data🔥")
     else:
         api_data = Import("https://covid19.th-stat.com/api/open/" + endpoint).daily()
         Export(api_data, endpoint, "dataset")

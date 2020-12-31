@@ -28,14 +28,6 @@ class WeekAnalyze:
         return df_week
 
     def gov(self):
-        # if self.df["notification_date"].str.match(u"\d\d\/\d\d\/\d\d"):
-        #     self.df["notification_date"] = pd.to_datetime(
-        #         self.df["notification_date"], format="%d/%m/%Y"
-        #     )
-        # else:
-        #     self.df["notification_date"] = pd.to_datetime(
-        #         self.df["notification_date"], format="%Y-%m-%d %H:%M:%S"
-        #     )
         df_week = self.df[
             self.df.notification_date
             > datetime.datetime.now() - pd.to_timedelta("14day")
