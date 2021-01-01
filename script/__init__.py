@@ -30,6 +30,8 @@ for endpoint in endpoints:
         Export(cases_api_week, "cases_week", "Recent 14Days Alert Data🔥")
         new_wave_cases = Wave(api_data).cases()
         Export(new_wave_cases, "new-wave-cases", "New Wave Data🔥")
+        Wave(api_data).cases_provinces()
+        Export(new_wave_cases, "provinces-cases", "New Wave Data🔥")
     else:
         api_data = Import("https://covid19.th-stat.com/api/open/" + endpoint).daily()
         Export(api_data, endpoint, "dataset")

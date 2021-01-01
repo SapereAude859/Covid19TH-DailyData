@@ -1,5 +1,4 @@
 import pandas as pd
-import datetime
 
 
 class NewWave:
@@ -20,3 +19,13 @@ class NewWave:
         new_wave_start = self.df["ConfirmDate"] >= "2020-12-17"
         df_new_wave = self.df.loc[new_wave_start]
         return df_new_wave
+
+    def cases_provinces(self):
+        new_wave_province = pd.DataFrame(
+            self.cases().groupby("Province")["ProvinceId"].count()
+        )
+
+        new_wave_province = new_wave_province.sort_values(
+            by=["ProvinceId"], ascending=False
+        )
+        return new_wave_province

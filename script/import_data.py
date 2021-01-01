@@ -45,7 +45,7 @@ class ImportData:
             data_gov.notification_date = data_gov.notification_date.ffill()
             data_gov.announce_date = data_gov.announce_date.ffill()
             data_gov.no = data_gov.no.apply(int)
-            print(data_gov.dtypes)
+            # print(data_gov.dtypes)
             return data_gov
         else:
             print("Source Not Working Technical Issue")
