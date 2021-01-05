@@ -13,7 +13,8 @@ url = (
     "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/24ac8406-0cf9-4f8e-a55e"
     "-b53cf6766d1a/download/pm-covid19-adjusted.xlsx"
 )
-
+sheets = ["data", "watchout", "risk", "patient"]
+away_url = "https://docs.google.com/spreadsheets/u/0/d/11Gx-Wc2bXb2pAcwKT4jcuLLZ0BYoCrjixo54UxX3KTw/pubhtml"
 
 cases_data = Import("https://covidtracker.5lab.co/").tracker()
 Export(cases_data, "covid-tracker", "dataset")
@@ -44,6 +45,8 @@ try:
 except TypeError:
     pass
 
+away_covid = Import(away_url).away()
+Export(away_covid, "away-covid", "dataset")
 
 Zip("dataset")
 Zip("Recent 14Days Alert Data🔥")

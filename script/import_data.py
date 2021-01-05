@@ -49,3 +49,16 @@ class ImportData:
             return data_gov
         else:
             print("Source Not Working Technical Issue")
+
+    def away(self):
+        r = session.get(self.url)
+        if r.status_code == 200:
+            away_covid = pd.read_html(r.html.url, encoding="utf-8")
+            away_covid_data = away_covid[0]
+            new_header = away_covid_data.iloc[0]
+            away_covid_data = away_covid_data[1:]
+            away_covid_data.columns = new_header
+            away_covid_data = away_covid_data.drop(columns=1.0)
+            away_covid_data = away_covid_data.dropna(subset=["place_name"])
+            away_covid_data = away_covid_data.reset_index(drop=True)
+            return away_covid_data
