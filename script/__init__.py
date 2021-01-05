@@ -47,6 +47,8 @@ except TypeError:
 
 away_covid = Import(away_url).away()
 Export(away_covid, "away-covid", "dataset")
+away_covid_week = Week(away_covid).away()
+Export(away_covid_week, "away-covid-week", "Recent 14Days Alert Data🔥")
 
 Zip("dataset")
 Zip("Recent 14Days Alert Data🔥")

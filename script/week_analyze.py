@@ -33,3 +33,10 @@ class WeekAnalyze:
             > datetime.datetime.now() - pd.to_timedelta("14day")
         ]
         return df_week
+
+    def away(self):
+        self.df["date_start"] = pd.to_datetime(self.df["date_start"], format="%Y-%m-%d")
+        df_week = self.df[
+            self.df.date > datetime.datetime.now() - pd.to_timedelta("14day")
+        ]
+        return df_week
