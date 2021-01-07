@@ -61,4 +61,5 @@ class ImportData:
             away_covid_data = away_covid_data.drop(columns=1.0)
             away_covid_data = away_covid_data.dropna(subset=["place_name"])
             away_covid_data = away_covid_data.reset_index(drop=True)
+            away_covid_data = away_covid_data.sort_values(by=["start_date"])
             return away_covid_data

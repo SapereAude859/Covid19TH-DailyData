@@ -39,4 +39,5 @@ class WeekAnalyze:
         df_week = self.df[
             self.df.date_start > datetime.datetime.now() - pd.to_timedelta("14day")
         ]
+        df_week = df_week.sort_values(by=["date_start"])
         return df_week
