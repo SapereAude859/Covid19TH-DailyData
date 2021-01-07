@@ -385,6 +385,11 @@ id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,
 383,patient_has_been_here,2021-01-04,Daikichi ซ.ศรีราชานคร 7,13.1682491,100.9280324,0,0,0,0,0,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
 384,confirmed,2021-01-04,วัดเจริญธรรม,13.3200792,101.1116027,0,0,0,0,unknown,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
 385,patient_has_been_here,2021-01-04,หอพักนิสิต จุฬา,13.74090148,100.5291059,0,0,0,0,0,Timeline นิสิตหอพัก ผู้ป่วยเพศชาย อายุ 21 ปี โดย จุฬาฯ ศูนย์ปฏิบัติการ โควิด-19,https://www.facebook.com/rcuchula/posts/10159089080509282,0
-386,patient_has_been_here,2021-01-04,Maison Kitsune สาขา Emquartier,13.73126779,100.5696703,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาเลือกซื้อสินค้าภายในร้าน,https://lin.ee/6JVw1A0,0
-387,patient_has_been_here,2021-01-05,เรือสีชังพาเลซ เบอร์ 4 เที่ยว 14:00 น.,13.1756844,100.9200621,0,0,0,0,0,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
-388,confirmed,2021-01-06,I-Rovers Sports Bar & Restaurant,12.9301453,100.884397,0,0,0,0,unknown,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
+386,patient_has_been_here,2021-01-04,Maison Kitsune สาขา Emquartier,13.73126779,100.5696703,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+387,patient_has_been_here,2021-01-04,COS สาขา Emquartier,13.73180202,100.5693726,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+388,patient_has_been_here,2021-01-04,รสนิยม สาขา Emquartier,13.73129419,100.5698684,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+389,patient_has_been_here,2021-01-04,Krispy Kreme สาขา Emquartier,13.73130812,100.569815,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+390,patient_has_been_here,2021-01-04,Eric Kaycer สาขา Emquartier,13.73188007,100.5695477,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+391,patient_has_been_here,2021-01-04,Guss Damm Good สาขา Emquartier,13.73271674,100.5696668,0,0,0,0,0,มีผู้ป่วย Covid-19 ได้เข้ามาใช้บริการ,https://www.springnews.co.th/news/804383,0
+392,patient_has_been_here,2021-01-05,เรือสีชังพาเลซ เบอร์ 4 เที่ยว 14:00 น.,13.1756844,100.9200621,0,0,0,0,0,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
+393,confirmed,2021-01-06,I-Rovers Sports Bar & Restaurant,12.9301453,100.884397,0,0,0,0,unknown,ข้อมูลสถานที่เสี่ยงตามประกาศของสำนักงานสาธารณสุขชลบุรี ,https://www.facebook.com/318251788326658/posts/1909226845895803/?d=n,0
