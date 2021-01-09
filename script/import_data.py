@@ -34,17 +34,13 @@ class ImportData:
         else:
             print("Api Not Working Technical Problem")
 
-    def gov(self):
+    def gov(self, url):
         r = session.get(self.url)
+        r2 = session.get(url)
         if r.status_code == 200:
-            data_gov = pd.read_excel(r.html.url, engine="openpyxl")
-            data_gov = data_gov.loc[:, ~data_gov.columns.str.match("Unnamed")]
-            data_gov.province_of_onset = data_gov.province_of_onset.replace(
-                "กทม", "กรุงเทพมหานคร"
-            )
-            data_gov.notification_date = data_gov.notification_date.ffill()
-            data_gov.announce_date = data_gov.announce_date.ffill()
-            data_gov.no = data_gov.no.apply(int)
+            data_gov1 = pd.read_csv(r.html.url)
+            data_gov2 = pd.read_csv(r2.html.url)
+            data_gov = data_gov1.append(data_gov2)
             # print(data_gov.dtypes)
             return data_gov
         else:

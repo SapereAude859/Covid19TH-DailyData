@@ -1,4 +1,421 @@
 ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,ProvinceEn,Detail,StatQuarantine
+2021-01-09 15:31:58,10053,41.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,โป่งน้ำร้อน,Chanthaburi,,1
+2021-01-09 15:31:58,10052,41.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,โป่งน้ำร้อน,Chanthaburi,,1
+2021-01-09 15:31:58,10051,32.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,โป่งน้ำร้อน,Chanthaburi,,1
+2021-01-09 15:31:58,10050,33.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมืองระยอง,Rayong,,1
+2021-01-09 15:31:58,10049,68.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมืองระยอง,Rayong,,1
+2021-01-09 15:31:58,10048,23.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10047,66.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10046,50.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10045,3.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10044,31.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10043,37.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:58,10042,29.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:58,10041,29.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:58,10040,11.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10039,39.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10038,40.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:58,10037,71.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-09 15:31:58,10036,46.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-09 15:31:58,10035,2.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:58,10034,47.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,ลาดพร้าว,Samut Prakan,,1
+2021-01-09 15:31:58,10033,34.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,วังทองหลาง,Samut Prakan,,1
+2021-01-09 15:31:58,10032,41.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,จตุจักร,Samut Prakan,,1
+2021-01-09 15:31:58,10031,34.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางแค,Samut Prakan,,1
+2021-01-09 15:31:58,10030,32.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางแค,Samut Prakan,,1
+2021-01-09 15:31:58,10029,33.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
+2021-01-09 15:31:58,10028,45.0,ชาย,Male,Singapore,Singapore,สมุทรปราการ,60,บึ่งกุ่ม,Samut Prakan,,1
+2021-01-09 15:31:58,10027,56.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-09 15:31:58,10025,56.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ทรงคะนอง,Samut Prakan,,1
+2021-01-09 15:31:58,10024,27.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ปทุมวัน,Samut Prakan,,1
+2021-01-09 15:31:58,10023,18.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางบอน,Samut Prakan,,1
+2021-01-09 15:31:58,10022,44.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:58,10021,25.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:57,10020,30.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,แขวนวัดทุ่งดอน,Samut Prakan,,1
+2021-01-09 15:31:57,10019,31.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:57,10018,27.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ประเวศ,Samut Prakan,,1
+2021-01-09 15:31:57,10017,57.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-09 15:31:57,10016,40.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-09 15:31:57,10015,25.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:57,10014,48.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:57,10013,60.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:57,10000,21.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9999,49.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,10026,37.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
+2021-01-09 15:31:57,9998,36.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บ้านบึง,Chonburi,,1
+2021-01-09 15:31:57,9997,14.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2021-01-09 15:31:57,9996,35.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:57,9995,40.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9994,30.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9993,32.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9992,21.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9991,20.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9990,27.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9989,26.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,เมือง,Chonburi,,1
+2021-01-09 15:31:57,9988,23.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9987,16.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9986,33.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9985,34.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9984,17.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9983,19.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9982,35.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9981,30.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9980,37.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9979,53.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9978,50.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9977,20.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:57,9976,48.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9975,30.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9974,27.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วังทองหลาง,Bangkok,,1
+2021-01-09 15:31:57,9973,50.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9972,48.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9971,22.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-09 15:31:57,9970,21.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-09 15:31:57,9969,34.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-09 15:31:57,9968,35.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9967,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-09 15:31:57,9966,52.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9965,38.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9964,21.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9963,27.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9962,38.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:57,9961,68.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,พระนคร,Bangkok,,1
+2021-01-09 15:31:57,9960,50.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ธนบุรี,Bangkok,,1
+2021-01-09 15:31:57,9959,44.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,สวนหลวง,Bangkok,,1
+2021-01-09 15:31:57,9958,36.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางบอน,Bangkok,,1
+2021-01-09 15:31:57,9957,41.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ธนบุรี,Bangkok,,1
+2021-01-09 15:31:57,9956,36.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-09 15:31:56,9955,41.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-09 15:31:56,9954,14.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-09 15:31:56,9953,49.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-09 15:31:56,9952,51.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ราษฎร์บูรณะ,Bangkok,,1
+2021-01-09 15:31:56,9951,36.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,พระสมุทรเจดีย์,Bangkok,,1
+2021-01-09 15:31:56,9950,41.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-09 15:31:56,9949,25.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
+2021-01-09 15:31:56,9948,46.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,พระประแดง,Bangkok,,1
+2021-01-09 15:31:56,9947,40.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางนา,Bangkok,,1
+2021-01-09 15:31:56,9946,49.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-09 15:31:56,9945,72.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-09 15:31:56,9944,47.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ท่าวุ้ง,Bangkok,,1
+2021-01-09 15:31:56,9943,28.0,ชาย,Male,Uganda,,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
+2021-01-09 15:31:56,9942,26.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-09 15:31:56,9941,36.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-09 15:31:56,9940,40.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9939,45.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9938,39.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9937,60.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9936,25.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9935,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9934,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9933,38.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9932,50.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9931,19.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
+2021-01-09 15:31:56,9930,29.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9929,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9928,43.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9927,56.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9926,52.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9925,33.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9924,36.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9923,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9922,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางบอน,Samut Sakhon,,1
+2021-01-09 15:31:56,9921,29.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9920,34.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9919,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9918,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9917,27.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9916,30.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9915,32.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9914,27.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9913,24.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9912,24.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9911,22.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9910,34.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9909,35.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9908,27.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9907,25.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9906,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9905,46.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9904,41.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9903,55.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:56,9902,30.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9901,38.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9900,41.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9899,32.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9898,32.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9897,28.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9895,28.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9894,19.0,หญิง,Female,Thailand,Thailand,ปราจีนบุรี,31,กบินทร์บุรี,Prachinburi,,1
+2021-01-09 15:31:55,9893,48.0,หญิง,Female,Thailand,Thailand,ตราด,16,เขาสมิง,Trat,,1
+2021-01-09 15:31:55,9892,24.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางนา,Samut Prakan,,1
+2021-01-09 15:31:55,9891,43.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,ประเวศ,Samut Prakan,,1
+2021-01-09 15:31:55,9890,39.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางนา,Samut Prakan,,1
+2021-01-09 15:31:55,9889,31.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:55,9888,35.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:55,9887,45.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-09 15:31:55,9886,20.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,ไทรน้อย,Nonthaburi,,0
+2021-01-09 15:31:55,9885,27.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,บางบัวทอง,Nonthaburi,,1
+2021-01-09 15:31:55,9884,68.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,ปากเกร็ด,Nonthaburi,,1
+2021-01-09 15:31:55,9883,24.0,หญิง,Female,Thailand,Thailand,นครศรีธรรมราช,22,ขนอม,Nakhon Si Thammarat,,1
+2021-01-09 15:31:55,9882,60.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,จอมบึง,Ratchaburi,,1
+2021-01-09 15:31:55,9896,45.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-09 15:31:55,9881,59.0,หญิง,Female,Thailand,Thailand,สิงห์บุรี,65,ค่ายบางระจัน,Sing Buri,,1
+2021-01-09 15:31:55,9880,20.0,หญิง,Female,Thailand,Thailand,สิงห์บุรี,65,ค่ายบางระจัน,Sing Buri,,1
+2021-01-09 15:31:55,9879,36.0,หญิง,Female,Thailand,Thailand,สิงห์บุรี,65,ค่ายบางระจัน,Sing Buri,,1
+2021-01-09 15:31:55,9878,34.0,หญิง,Female,Thailand,Thailand,สิงห์บุรี,65,ค่ายบางระจัน,Sing Buri,,1
+2021-01-09 15:31:55,9877,42.0,ชาย,Male,Thailand,Thailand,สระบุรี,64,พระพุทธบาท,Saraburi,,1
+2021-01-09 15:31:55,9876,66.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,ไชโย,Ang Thong,,1
+2021-01-09 15:31:55,9875,57.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,ไชโย,Ang Thong,,1
+2021-01-09 15:31:55,9874,39.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9873,62.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9872,51.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9871,37.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9870,36.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9869,27.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,วิเศษชัยชาญ,Ang Thong,,1
+2021-01-09 15:31:55,9868,54.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-09 15:31:55,9867,49.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-09 15:31:55,9866,28.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9865,42.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9864,51.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9863,59.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9862,69.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9861,34.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9860,50.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9859,47.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-09 15:31:55,9858,25.0,หญิง,Female,Thailand,Thailand,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9857,27.0,หญิง,Female,Thailand,Thailand,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9856,30.0,หญิง,Female,Thailand,Thailand,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9855,24.0,หญิง,Female,Thailand,Thailand,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9854,40.0,ชาย,Male,Burma,Burmese,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9853,21.0,หญิง,Female,Burma,Burmese,ตาก,17,แม่สอด,Tak,,1
+2021-01-09 15:31:55,9852,49.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,สายไหม,Nonthaburi,,1
+2021-01-09 15:31:55,9851,6.0,หญิง,Female,Thailand,Thailand,เลย,55,วังสะพุง,Loei,,1
+2021-01-09 15:31:55,9850,69.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,ดอนตูม,Nakhon Pathom,,1
+2021-01-09 15:31:55,9849,23.0,ชาย,Male,Thailand,Thailand,หนองบัวลำภู,71,สุวรรณคูหา,Nong Bua Lamphu,,1
+2021-01-09 15:31:55,9848,37.0,ชาย,Male,Thailand,Thailand,ปทุมธานี,29,คลองหลวง,Pathum Thani,,1
+2021-01-09 15:31:54,9847,9.0,ชาย,Male,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:54,9846,27.0,ชาย,Male,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:54,9845,56.0,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:54,9844,48.0,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:54,9843,39.0,ชาย,Male,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:54,9842,59.0,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-09 15:31:53,10012,6.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10011,55.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10010,55.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10009,61.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10008,21.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10007,45.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10006,29.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-09 15:31:53,10005,24.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:53,10004,36.0,ชาย,Male,Japan,Japan,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:53,10003,36.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:53,10002,24.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-09 15:31:53,10001,46.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:07,9841,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9836,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9835,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9834,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9833,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9832,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9831,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9830,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9829,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9828,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9827,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9826,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9825,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9824,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9823,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9822,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9821,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:07,9820,57.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:07,9819,,ชาย,Male,Thailand,Thailand,ระยอง,50,เขาชะเมา,Rayong,,1
+2021-01-08 20:32:07,9818,56.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:06,9817,7.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:06,9816,34.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:06,9815,26.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:06,9814,27.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-08 20:32:06,9813,38.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เมืองจันทบุรี,Chanthaburi,,1
+2021-01-08 20:32:06,9812,61.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9811,4.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9810,29.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9809,23.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9808,37.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9807,60.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,มะขาม,Chanthaburi,,1
+2021-01-08 20:32:06,9806,55.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,ท่าใหม่,Chanthaburi,,1
+2021-01-08 20:32:06,9805,46.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,ขลุง,Chanthaburi,,1
+2021-01-08 20:32:06,9804,34.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:06,9803,38.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:06,9802,28.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:06,9801,24.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,สัตหีบ,Chonburi,,1
+2021-01-08 20:32:06,9800,38.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9799,29.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9798,40.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9797,43.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9796,27.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9795,40.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9794,21.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9793,24.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9792,18.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9791,49.0,ชาย,Male,Japan,Japan,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9790,52.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,เมืองระยอง,Chonburi,,1
+2021-01-08 20:32:06,9789,49.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9788,27.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9787,47.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,สัตหีบ,Chonburi,,1
+2021-01-08 20:32:06,9786,33.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ปลวกแดง,Chonburi,,1
+2021-01-08 20:32:06,9839,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:06,9785,18.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:06,9784,28.0,หญิง,Female,Cambodia,Cambodia,ชลบุรี,9,,Chonburi,,1
+2021-01-08 20:32:06,9783,55.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2021-01-08 20:32:06,9782,24.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2021-01-08 20:32:05,9781,22.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:32:05,9780,93.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:32:05,9779,47.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-08 20:32:05,9778,32.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ประเวศ,Samut Prakan,,1
+2021-01-08 20:32:05,9777,49.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-08 20:32:05,9776,50.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมือง,Samut Prakan,,1
+2021-01-08 20:32:05,9775,23.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางบ่อ,Samut Prakan,,1
+2021-01-08 20:32:05,9774,48.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,พระประแดง,Samut Prakan,,1
+2021-01-08 20:32:05,9773,26.0,หญิง,Female,Burma,Burmese,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:32:05,9838,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:05,9772,7.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ห้วยขวาง,Samut Prakan,,1
+2021-01-08 20:32:05,9771,33.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ห้วยขวาง,Samut Prakan,,1
+2021-01-08 20:32:05,9770,37.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,ห้วยขวาง,Samut Prakan,,1
+2021-01-08 20:32:05,9769,48.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9768,44.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9767,53.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9766,47.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9765,44.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-08 20:32:05,9764,27.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9763,27.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9762,23.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9761,26.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9760,24.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:32:05,9750,53.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:05,9749,47.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:05,9748,9.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:05,9747,22.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:32:05,9746,51.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-08 20:32:05,9745,43.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-08 20:32:05,9744,61.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางกะปิ,Bangkok,,1
+2021-01-08 20:32:05,9743,38.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมืองสมุทรสาคร,Bangkok,,1
+2021-01-08 20:32:05,9742,28.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางเขน,Bangkok,,1
+2021-01-08 20:32:05,9741,49.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางพลัด,Bangkok,,1
+2021-01-08 20:32:05,9740,30.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางคอแหลม,Bangkok,,1
+2021-01-08 20:32:05,9739,61.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางพลี,Bangkok,,1
+2021-01-08 20:32:05,9738,27.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,สวนหลวง,Bangkok,,1
+2021-01-08 20:32:05,9737,66.0,ชาย,Male,UnitedKingdom,UnitedKingdom,กรุงเทพมหานคร,1,บางละมุง,Bangkok,,1
+2021-01-08 20:32:05,9736,52.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-08 20:32:05,9735,38.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-08 20:32:05,9734,46.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ประเวศ,Bangkok,,1
+2021-01-08 20:32:05,9733,29.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางนา,Bangkok,,1
+2021-01-08 20:32:05,9732,43.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางพลี,Bangkok,,1
+2021-01-08 20:32:05,9731,38.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางกรวย,Bangkok,,1
+2021-01-08 20:32:05,9730,27.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ธนบุรี,Bangkok,,1
+2021-01-08 20:32:05,9729,35.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-08 20:32:05,9728,54.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางกรวย,Bangkok,,1
+2021-01-08 20:32:05,9727,34.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-08 20:32:05,9726,25.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ธนบุรี,Bangkok,,1
+2021-01-08 20:32:05,9725,22.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-08 20:32:04,9724,33.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-08 20:32:04,9723,71.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,อัมพวา,Bangkok,,1
+2021-01-08 20:32:04,9722,64.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เสนา,Bangkok,,1
+2021-01-08 20:32:04,9721,18.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางพลัด,Bangkok,,1
+2021-01-08 20:32:04,9720,57.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางบัวทอง,Bangkok,,1
+2021-01-08 20:32:04,9719,44.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-08 20:32:04,9718,38.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-08 20:32:04,9717,15.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9716,12.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9715,14.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9837,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:32:04,9714,14.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9713,13.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9712,14.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9711,18.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-08 20:32:04,9710,36.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางบ่อ,Bangkok,,1
+2021-01-08 20:32:04,9709,32.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-08 20:32:04,9708,64.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-08 20:32:04,9707,39.0,ชาย,Male,Japan,Japan,กรุงเทพมหานคร,1,คลองเตย,Bangkok,,1
+2021-01-08 20:32:04,9706,29.0,หญิง,Female,UnitedStatesofAmerica,UnitedStatesofAmerica,กรุงเทพมหานคร,1,คลองสาน,Bangkok,,1
+2021-01-08 20:32:04,9705,52.0,หญิง,Female,India,India,กรุงเทพมหานคร,1,บางซื่อ,Bangkok,,1
+2021-01-08 20:32:04,9704,21.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,คลองสามวา,Bangkok,,1
+2021-01-08 20:32:04,9703,28.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางแค,Bangkok,,1
+2021-01-08 20:32:04,9702,48.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-08 20:32:04,9701,35.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางรัก,Bangkok,,1
+2021-01-08 20:32:04,9700,22.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
+2021-01-08 20:32:04,9699,17.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
+2021-01-08 20:32:04,9698,49.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9697,36.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9696,33.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9695,33.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9694,22.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9693,22.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9692,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9691,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9690,59.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9689,51.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9688,61.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9687,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9686,54.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9685,42.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9684,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9683,21.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9682,30.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9681,28.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9680,27.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9679,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9678,35.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9677,30.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9676,31.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9675,49.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9674,38.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9673,27.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:04,9672,42.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:03,9671,36.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:03,9670,28.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:03,9669,24.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:03,9668,19.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
+2021-01-08 20:32:03,9667,22.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
+2021-01-08 20:32:03,9666,30.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
+2021-01-08 20:32:03,9665,31.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เสนา,Samut Sakhon,,1
+2021-01-08 20:32:03,9664,24.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,สามพราน,Samut Sakhon,,1
+2021-01-08 20:32:03,9663,34.0,ชาย,Male,Thailand,Thailand,สมุทรสงคราม,61,เมือง,Samut Songkhram,,1
+2021-01-08 20:32:03,9662,23.0,หญิง,Female,Thailand,Thailand,เชียงใหม่,14,สันทราย,Chiang Mai,,1
+2021-01-08 20:32:03,9661,21.0,หญิง,Female,Thailand,Thailand,เชียงใหม่,14,เมือง,Chiang Mai,,1
+2021-01-08 20:32:03,9660,27.0,หญิง,Female,Thailand,Thailand,เชียงใหม่,14,สันกำแพง,Chiang Mai,,1
+2021-01-08 20:32:03,9659,28.0,ชาย,Male,Thailand,Thailand,เชียงใหม่,14,เมือง,Chiang Mai,,1
+2021-01-08 20:32:03,9658,49.0,ชาย,Male,Thailand,Thailand,ลพบุรี,52,ท่าวุ้ง,Lopburi,,1
+2021-01-08 20:32:03,9657,42.0,หญิง,Female,Thailand,Thailand,บุรีรัมย์,28,นางรอง,Buriram,,1
+2021-01-08 20:32:03,9656,26.0,หญิง,Female,Thailand,Thailand,สุราษฎร์ธานี,68,เมือง,Surat Thani,,1
+2021-01-08 20:32:03,9655,27.0,ชาย,Male,Thailand,Thailand,สุพรรณบุรี,67,เมือง,Suphan Buri,,1
+2021-01-08 20:32:03,9654,13.0,ชาย,Male,Thailand,Thailand,เลย,55,วังสะพุง,Loei,,1
+2021-01-08 20:32:03,9653,78.0,หญิง,Female,Thailand,Thailand,เลย,55,วังสะพุง,Loei,,1
+2021-01-08 20:32:03,9652,47.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:32:03,9651,50.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-08 20:32:03,9650,24.0,ชาย,Male,Thailand,Thailand,ลำพูน,54,เมือง,Lamphun,,1
+2021-01-08 20:32:03,9649,52.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:32:03,9648,19.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:32:03,9647,43.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,สามพราน,Nakhon Pathom,,1
+2021-01-08 20:32:03,9646,39.0,ชาย,Male,Thailand,Thailand,นครปฐม,19,สามพราน,Nakhon Pathom,,1
+2021-01-08 20:32:03,9645,1.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,สามพราน,Nakhon Pathom,,1
+2021-01-08 20:32:03,9644,58.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,เมือง,Nakhon Pathom,,1
+2021-01-08 20:32:03,9643,29.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,เมือง,Nakhon Pathom,,1
+2021-01-08 20:32:03,9642,65.0,ชาย,Male,Thailand,Thailand,เลย,55,ภูกระดึง,Loei,,1
+2021-01-08 20:32:03,9641,46.0,หญิง,Female,Thailand,Thailand,เลย,55,วังสะพุง,Loei,,1
+2021-01-08 20:32:03,9640,73.0,หญิง,Female,Thailand,Thailand,ปทุมธานี,29,ลาดหลุมแก้ว,Pathum Thani,,1
+2021-01-08 20:32:03,9639,27.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:32:03,9638,38.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:32:03,9637,34.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,แสวงหา,Ang Thong,,1
+2021-01-08 20:31:57,9840,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-08 20:31:57,9759,53.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:31:57,9758,43.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-08 20:31:57,9757,38.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-08 20:31:57,9756,1.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:31:57,9755,26.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:31:57,9754,62.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-08 20:31:57,9753,42.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:31:57,9752,58.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
+2021-01-08 20:31:57,9751,47.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองสมุทรปราการ,Samut Prakan,,1
 2021-01-07 17:32:17,9636,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,ไม่พบข้อมูล,78,,Unknown,,1
 2021-01-07 17:32:17,9635,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,ไม่พบข้อมูล,78,,Unknown,,1
 2021-01-07 17:32:17,9634,,ไม่ระบุเพศ,Unknown,ไม่ทราบ,Unknown,ไม่พบข้อมูล,78,,Unknown,,1
@@ -2226,141 +2643,141 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2021-01-06 20:11:22,7753,29.0,หญิง,Female,Canada,Canada,กรุงเทพมหานคร,1,คลองเตย,Bangkok,,1
 2021-01-06 20:11:22,7752,29.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
 2021-01-06 20:11:22,7751,44.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
-2021-01-05 15:41:12,7409,43.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7408,64.0,หญิง,Female,India,India,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7407,79.0,หญิง,Female,Thailand,Thailand,ลำปาง,53,,Lampang,,1
-2021-01-05 15:41:12,7406,53.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7405,63.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7404,69.0,ชาย,Male,Thailand,Thailand,สมุทรสงคราม,61,,Samut Songkhram,,1
-2021-01-05 15:41:12,7403,16.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7402,11.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7401,42.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7400,29.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7399,38.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7398,28.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7397,49.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7396,42.0,ชาย,Male,Thailand,Thailand,ลำปาง,53,,Lampang,,1
-2021-01-05 15:41:12,7395,56.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7394,50.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7393,62.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7392,53.0,ชาย,Male,Czechia,,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7391,55.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7390,79.0,ชาย,Male,Czechia,,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7389,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7388,59.0,ชาย,Male,Thailand,Thailand,กาญจนบุรี,3,,Kanchanaburi,,1
-2021-01-05 15:41:12,7387,64.0,ชาย,Male,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:12,7386,57.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:12,7385,33.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:12,7384,20.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:12,7383,31.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:12,7382,47.0,หญิง,Female,Burma,Burmese,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:12,7381,24.0,หญิง,Female,Laos,Laos,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:12,7380,25.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7379,26.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7378,25.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7377,25.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7376,56.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:12,7375,35.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7374,49.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7373,50.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7372,65.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:12,7371,45.0,หญิง,Female,Laos,Laos,อำนาจเจริญ,73,,Amnat Charoen,,1
-2021-01-05 15:41:12,7370,41.0,หญิง,Female,Japan,Japan,เชียงใหม่,14,,Chiang Mai,,1
-2021-01-05 15:41:12,7369,26.0,หญิง,Female,Japan,Japan,เชียงใหม่,14,,Chiang Mai,,1
-2021-01-05 15:41:12,7368,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7367,43.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7366,25.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:12,7365,13.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:12,7364,58.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7363,11.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:12,7362,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
+2021-01-05 15:41:12,7409,43.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,สวนหลวง,Bangkok,,1
+2021-01-05 15:41:12,7408,64.0,หญิง,Female,India,India,กรุงเทพมหานคร,1,บางรัก,Bangkok,,1
+2021-01-05 15:41:12,7407,79.0,หญิง,Female,Thailand,Thailand,ลำปาง,53,เมือง,Lampang,,1
+2021-01-05 15:41:12,7406,53.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7405,63.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ลาดกระบัง,Bangkok,,1
+2021-01-05 15:41:12,7404,69.0,ชาย,Male,Thailand,Thailand,สมุทรสงคราม,61,อัมพวา,Samut Songkhram,,1
+2021-01-05 15:41:12,7403,16.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางซื่อ,Bangkok,,1
+2021-01-05 15:41:12,7402,11.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-05 15:41:12,7401,42.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ราษฎร์บูรณะ,Bangkok,,1
+2021-01-05 15:41:12,7400,29.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางบอน,Bangkok,,1
+2021-01-05 15:41:12,7399,38.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-05 15:41:12,7398,28.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางกรวย,Bangkok,,1
+2021-01-05 15:41:12,7397,49.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ดอนเมือง,Bangkok,,1
+2021-01-05 15:41:12,7396,42.0,ชาย,Male,Thailand,Thailand,ลำปาง,53,เมือง,Lampang,,1
+2021-01-05 15:41:12,7395,56.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,กระทุ่มแบน,Bangkok,,1
+2021-01-05 15:41:12,7394,50.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-05 15:41:12,7393,62.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,หนองแขม,Bangkok,,1
+2021-01-05 15:41:12,7392,53.0,ชาย,Male,Czechia,,กรุงเทพมหานคร,1,บางบ่อ,Bangkok,,1
+2021-01-05 15:41:12,7391,55.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,พระนคร,Bangkok,,1
+2021-01-05 15:41:12,7390,79.0,ชาย,Male,Czechia,,กรุงเทพมหานคร,1,บางบ่อ,Bangkok,,1
+2021-01-05 15:41:12,7389,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
+2021-01-05 15:41:12,7388,59.0,ชาย,Male,Thailand,Thailand,กาญจนบุรี,3,พนมทวน,Kanchanaburi,,1
+2021-01-05 15:41:12,7387,64.0,ชาย,Male,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:12,7386,57.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:12,7385,33.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:12,7384,20.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:12,7383,31.0,หญิง,Female,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:12,7382,47.0,หญิง,Female,Burma,Burmese,นนทบุรี,24,เมือง,Nonthaburi,,1
+2021-01-05 15:41:12,7381,24.0,หญิง,Female,Laos,Laos,นนทบุรี,24,เมือง,Nonthaburi,,1
+2021-01-05 15:41:12,7380,25.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7379,26.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7378,25.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7377,25.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7376,56.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,บางใหญ่่,Nonthaburi,,1
+2021-01-05 15:41:12,7375,35.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7374,49.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7373,50.0,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:12,7372,65.0,หญิง,Female,Thailand,Thailand,อ่างทอง,72,โพธิ์ทอง,Ang Thong,,1
+2021-01-05 15:41:12,7371,45.0,หญิง,Female,Laos,Laos,อำนาจเจริญ,73,หัวตะพาน,Amnat Charoen,,1
+2021-01-05 15:41:12,7370,41.0,หญิง,Female,Japan,Japan,เชียงใหม่,14,เมือง,Chiang Mai,,1
+2021-01-05 15:41:12,7369,26.0,หญิง,Female,Japan,Japan,เชียงใหม่,14,เมือง,Chiang Mai,,1
+2021-01-05 15:41:12,7368,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทวีวัฒนา,Bangkok,,1
+2021-01-05 15:41:12,7367,43.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,หลักสี่,Bangkok,,1
+2021-01-05 15:41:12,7366,25.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,บางใหญ่,Nonthaburi,,1
+2021-01-05 15:41:12,7365,13.0,หญิง,Female,Thailand,Thailand,นนทบุรี,24,บางใหญ่,Nonthaburi,,1
+2021-01-05 15:41:12,7364,58.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางกอกใหญ่,Bangkok,,1
+2021-01-05 15:41:12,7363,11.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,รัชดา,Bangkok,,1
+2021-01-05 15:41:12,7362,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ดินแดง,Bangkok,,1
 2021-01-05 15:41:12,7361,58.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
 2021-01-05 15:41:12,7360,56.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7359,25.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7358,26.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7357,41.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7356,37.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7355,45.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7354,37.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7353,29.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7352,22.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,,Chanthaburi,,1
-2021-01-05 15:41:12,7351,29.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7350,41.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7349,34.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7348,32.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7347,57.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7346,57.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7345,39.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7344,34.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7343,30.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7342,42.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7341,44.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7340,79.0,ชาย,Male,Burma,Burmese,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7339,40.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7338,52.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7337,58.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7336,71.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7335,51.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7334,59.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7333,16.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7332,13.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7331,52.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7330,14.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7329,53.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,,Samut Prakan,,1
-2021-01-05 15:41:11,7328,54.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7327,44.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7326,47.0,หญิง,Female,ไม่ทราบ,Unknown,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7325,31.0,หญิง,Female,ไม่ทราบ,Unknown,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7324,65.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7323,74.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7322,76.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7321,28.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7320,69.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7319,30.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7318,68.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7317,69.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7316,52.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7315,30.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7314,42.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7313,65.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7312,32.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7311,26.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7310,44.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7309,47.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7308,29.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7307,55.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7306,56.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7305,77.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7304,55.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7303,43.0,หญิง,Female,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7302,52.0,ชาย,Male,Thailand,Thailand,ระยอง,50,,Rayong,,1
-2021-01-05 15:41:11,7301,29.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7300,41.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7299,29.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7298,29.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7297,27.0,หญิง,Female,Vietnam,Vietnam,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7296,34.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7295,31.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7294,31.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7293,64.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7292,2.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7291,25.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7290,24.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7289,22.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7288,47.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7287,39.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7286,41.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7285,57.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7284,29.0,ชาย,Male,Japan,Japan,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7283,32.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7282,53.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:11,7281,35.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7280,28.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7279,45.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7278,43.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7277,59.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7276,26.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:10,7275,35.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2021-01-05 15:41:12,7359,25.0,หญิง,Female,Thailand,Thailand,จันทบุรี,7,เมืองจันทบุรี,Chanthaburi,,1
+2021-01-05 15:41:12,7358,26.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,ท่าใหม่,Chanthaburi,,1
+2021-01-05 15:41:12,7357,41.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เมือง,Chanthaburi,,1
+2021-01-05 15:41:12,7356,37.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เขาคิชฌกูฏ,Chanthaburi,,1
+2021-01-05 15:41:12,7355,45.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เขาคิชกุฏ,Chanthaburi,,1
+2021-01-05 15:41:12,7354,37.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เมือง,Chanthaburi,,1
+2021-01-05 15:41:12,7353,29.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,เมือง,Chanthaburi,,1
+2021-01-05 15:41:12,7352,22.0,ชาย,Male,Thailand,Thailand,จันทบุรี,7,มะชาม,Chanthaburi,,1
+2021-01-05 15:41:12,7351,29.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7350,41.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7349,34.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,บางเสาธง,Samut Prakan,,1
+2021-01-05 15:41:11,7348,32.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,เขตคลองสามวา,Samut Prakan,,1
+2021-01-05 15:41:11,7347,57.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7346,57.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7345,39.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7344,34.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7343,30.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7342,42.0,ชาย,Male,Thailand,Thailand,สมุทรปราการ,60,พระสมุทรเจดีย์,Samut Prakan,,1
+2021-01-05 15:41:11,7341,44.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7340,79.0,ชาย,Male,Burma,Burmese,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7339,40.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7338,52.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7337,58.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7336,71.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7335,51.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7334,59.0,ชาย,Male,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7333,16.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7332,13.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7331,52.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7330,14.0,หญิง,Female,Cambodia,Cambodia,สมุทรปราการ,60,บางพลี,Samut Prakan,,1
+2021-01-05 15:41:11,7329,53.0,หญิง,Female,Thailand,Thailand,สมุทรปราการ,60,เมืองชลบุรี,Samut Prakan,,1
+2021-01-05 15:41:11,7328,54.0,ชาย,Male,Thailand,Thailand,ระยอง,50,บ้านค่าย,Rayong,,1
+2021-01-05 15:41:11,7327,44.0,หญิง,Female,Thailand,Thailand,ระยอง,50,บ้านค่าย,Rayong,,1
+2021-01-05 15:41:11,7326,47.0,หญิง,Female,ไม่ทราบ,Unknown,ระยอง,50,เมืองระยอง,Rayong,,1
+2021-01-05 15:41:11,7325,31.0,หญิง,Female,ไม่ทราบ,Unknown,ระยอง,50,เมืองระยอง,Rayong,,1
+2021-01-05 15:41:11,7324,65.0,ชาย,Male,Thailand,Thailand,ระยอง,50,พนัสนิคม,Rayong,,1
+2021-01-05 15:41:11,7323,74.0,ชาย,Male,Thailand,Thailand,ระยอง,50,แหลมงอบ,Rayong,,1
+2021-01-05 15:41:11,7322,76.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7321,28.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7320,69.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7319,30.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7318,68.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7317,69.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7316,52.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7315,30.0,ชาย,Male,Thailand,Thailand,ระยอง,50,บ้านค่าย,Rayong,,1
+2021-01-05 15:41:11,7314,42.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7313,65.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7312,32.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7311,26.0,หญิง,Female,Thailand,Thailand,ระยอง,50,แกลง,Rayong,,1
+2021-01-05 15:41:11,7310,44.0,หญิง,Female,Thailand,Thailand,ระยอง,50,แกลง,Rayong,,1
+2021-01-05 15:41:11,7309,47.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7308,29.0,หญิง,Female,Thailand,Thailand,ระยอง,50,บ้านค่าย,Rayong,,1
+2021-01-05 15:41:11,7307,55.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เมือง,Rayong,,1
+2021-01-05 15:41:11,7306,56.0,หญิง,Female,Thailand,Thailand,ระยอง,50,แกลง,Rayong,,1
+2021-01-05 15:41:11,7305,77.0,ชาย,Male,Thailand,Thailand,ระยอง,50,แกลง,Rayong,,1
+2021-01-05 15:41:11,7304,55.0,ชาย,Male,Thailand,Thailand,ระยอง,50,เขาชะเมา,Rayong,,1
+2021-01-05 15:41:11,7303,43.0,หญิง,Female,Thailand,Thailand,ระยอง,50,เขาชะเมา,Rayong,,1
+2021-01-05 15:41:11,7302,52.0,ชาย,Male,Thailand,Thailand,ระยอง,50,แกลง,Rayong,,1
+2021-01-05 15:41:11,7301,29.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7300,41.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7299,29.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7298,29.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7297,27.0,หญิง,Female,Vietnam,Vietnam,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7296,34.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7295,31.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7294,31.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7293,64.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:11,7292,2.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7291,25.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:11,7290,24.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7289,22.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7288,47.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7287,39.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2021-01-05 15:41:11,7286,41.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2021-01-05 15:41:11,7285,57.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุุง,Chonburi,,1
+2021-01-05 15:41:11,7284,29.0,ชาย,Male,Japan,Japan,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:11,7283,32.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,เมืองชลบุรี,Chonburi,,1
+2021-01-05 15:41:11,7282,53.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:41:11,7281,35.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7280,28.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7279,45.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7278,43.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7277,59.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7276,26.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:41:10,7275,35.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
 2021-01-05 15:41:10,7250,42.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:10,7249,41.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:10,7248,54.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
@@ -2433,39 +2850,39 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2021-01-05 15:41:09,7181,26.0,ชาย,Male,ไม่ทราบ,Unknown,นนทบุรี,24,,Nonthaburi,,1
 2021-01-05 15:41:09,7180,27.0,ชาย,Male,ไม่ทราบ,Unknown,นนทบุรี,24,,Nonthaburi,,1
 2021-01-05 15:41:09,7179,31.0,หญิง,Female,ไม่ทราบ,Unknown,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:09,7178,49.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,,Nonthaburi,,1
-2021-01-05 15:41:09,7177,44.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7176,33.0,หญิง,Female,India,India,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7175,23.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7174,32.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7173,8.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7172,67.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7171,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7170,41.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7169,28.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7168,35.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7167,1.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7166,46.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7165,43.0,ชาย,Male,Pakistan,Pakistan,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7164,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7163,,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7162,,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7161,,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7160,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7159,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ราชบุรี,51,,Ratchaburi,,1
-2021-01-05 15:41:09,7158,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7157,,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,,Bangkok,,1
-2021-01-05 15:41:09,7156,,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,,Phra Nakhon Si Ayutthaya,,1
-2021-01-05 15:41:09,7155,,หญิง,Female,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:09,7154,,ชาย,Male,Thailand,Thailand,อ่างทอง,72,,Ang Thong,,1
-2021-01-05 15:41:09,7153,,ชาย,Male,Thailand,Thailand,ปทุมธานี,29,,Pathum Thani,,1
-2021-01-05 15:41:09,7152,,หญิง,Female,Thailand,Thailand,ปทุมธานี,29,,Pathum Thani,,1
-2021-01-05 15:41:09,7151,,หญิง,Female,Burma,Burmese,ตาก,17,,Tak,,1
-2021-01-05 15:41:09,7150,,หญิง,Female,Burma,Burmese,ปทุมธานี,29,,Pathum Thani,,1
-2021-01-05 15:41:09,7149,,ชาย,Male,Thailand,Thailand,สุพรรณบุรี,67,,Suphan Buri,,1
-2021-01-05 15:41:09,7148,,หญิง,Female,Thailand,Thailand,นครปฐม,19,,Nakhon Pathom,,1
-2021-01-05 15:41:09,7147,55.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,,Nakhon Pathom,,1
-2021-01-05 15:41:09,7146,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ชัยนาท,10,,Chainat,,1
+2021-01-05 15:41:09,7178,49.0,ชาย,Male,Burma,Burmese,นนทบุรี,24,บางใหญ่,Nonthaburi,,1
+2021-01-05 15:41:09,7177,44.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-05 15:41:09,7176,33.0,หญิง,Female,India,India,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:09,7175,23.0,ชาย,Male,Burma,Burmese,กรุงเทพมหานคร,1,จอมทอง,Bangkok,,1
+2021-01-05 15:41:09,7174,32.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:09,7173,8.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางพลัด,Bangkok,,1
+2021-01-05 15:41:09,7172,67.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ห้วยขวาง,Bangkok,,1
+2021-01-05 15:41:09,7171,37.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางบัวทอง,Bangkok,,1
+2021-01-05 15:41:09,7170,41.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,บางขุุนเทียน,Bangkok,,1
+2021-01-05 15:41:09,7169,28.0,หญิง,Female,Burma,Burmese,กรุงเทพมหานคร,1,บางขุนเทียน,Bangkok,,1
+2021-01-05 15:41:09,7168,35.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บึงกุ่ม,Bangkok,,1
+2021-01-05 15:41:09,7167,1.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ดุสิต,Bangkok,,1
+2021-01-05 15:41:09,7166,46.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทุ่งครุ,Bangkok,,1
+2021-01-05 15:41:09,7165,43.0,ชาย,Male,Pakistan,Pakistan,กรุงเทพมหานคร,1,พญาไท,Bangkok,,1
+2021-01-05 15:41:09,7164,26.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ทวีวัฒนา,Bangkok,,1
+2021-01-05 15:41:09,7163,,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,คลองสามวา,Bangkok,,1
+2021-01-05 15:41:09,7162,,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,้เมือง,Bangkok,,1
+2021-01-05 15:41:09,7161,,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ทวีวัฒนา,Bangkok,,1
+2021-01-05 15:41:09,7160,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,กรุงเทพมหานคร,1,ยายนาวา,Bangkok,,1
+2021-01-05 15:41:09,7159,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ราชบุรี,51,บางแพ,Ratchaburi,,1
+2021-01-05 15:41:09,7158,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,กรุงเทพมหานคร,1,ยานนาวา,Bangkok,,1
+2021-01-05 15:41:09,7157,,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,สาทร,Bangkok,,1
+2021-01-05 15:41:09,7156,,หญิง,Female,Thailand,Thailand,พระนครศรีอยุธยา,33,บางปะอิน,Phra Nakhon Si Ayutthaya,,1
+2021-01-05 15:41:09,7155,,หญิง,Female,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:09,7154,,ชาย,Male,Thailand,Thailand,อ่างทอง,72,เมือง,Ang Thong,,1
+2021-01-05 15:41:09,7153,,ชาย,Male,Thailand,Thailand,ปทุมธานี,29,คลองหลวง,Pathum Thani,,1
+2021-01-05 15:41:09,7152,,หญิง,Female,Thailand,Thailand,ปทุมธานี,29,ลำลูกกา,Pathum Thani,,1
+2021-01-05 15:41:09,7151,,หญิง,Female,Burma,Burmese,ตาก,17,แม่สอด,Tak,,1
+2021-01-05 15:41:09,7150,,หญิง,Female,Burma,Burmese,ปทุมธานี,29,รังสิต,Pathum Thani,,1
+2021-01-05 15:41:09,7149,,ชาย,Male,Thailand,Thailand,สุพรรณบุรี,67,สองพี่น้อง,Suphan Buri,,1
+2021-01-05 15:41:09,7148,,หญิง,Female,Thailand,Thailand,นครปฐม,19,เมือง,Nakhon Pathom,,1
+2021-01-05 15:41:09,7147,55.0,หญิง,Female,Thailand,Thailand,นครปฐม,19,เมือง,Nakhon Pathom,,1
+2021-01-05 15:41:09,7146,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ชัยนาท,10,สรรพยา,Chainat,,1
 2021-01-05 15:41:09,7145,,ชาย,Male,Thailand,Thailand,ฉะเชิงเทรา,8,,Chachoengsao,,1
 2021-01-05 15:41:09,7144,,ชาย,Male,Thailand,Thailand,สระแก้ว,63,,Sa Kaeo,,1
 2021-01-05 15:41:09,7143,,ชาย,Male,Thailand,Thailand,สระแก้ว,63,,Sa Kaeo,,1
@@ -2597,95 +3014,95 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2021-01-05 15:41:07,6973,14.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:07,6972,18.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:07,6971,48.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
-2021-01-05 15:41:07,6970,64.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางกะปิ,Samut Sakhon,,1
-2021-01-05 15:41:07,6969,28.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางบัวทอง,Samut Sakhon,,1
-2021-01-05 15:41:07,6968,35.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางบัวทอง,Samut Sakhon,,1
-2021-01-05 15:41:07,6967,26.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,พระนคร,Samut Sakhon,,1
+2021-01-05 15:41:07,6970,64.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6969,28.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6968,35.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6967,26.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:07,6966,41.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
-2021-01-05 15:41:07,6965,22.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,หนองแขม,Samut Sakhon,,1
+2021-01-05 15:41:07,6965,22.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:07,6964,28.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
-2021-01-05 15:41:07,6963,47.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางพลี,Samut Sakhon,,1
-2021-01-05 15:41:07,6962,43.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,สาทร,Samut Sakhon,,1
-2021-01-05 15:41:07,6961,12.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,พระนคร,Samut Sakhon,,1
-2021-01-05 15:41:07,6960,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,วัฒนา,Samut Sakhon,,1
-2021-01-05 15:41:07,6959,56.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางขุนเทียน,Samut Sakhon,,1
-2021-01-05 15:41:07,6958,70.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,ดอนเมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6957,70.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางขุนเทียน,Samut Sakhon,,1
-2021-01-05 15:41:07,6956,21.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,ห้วยขวาง,Samut Sakhon,,1
-2021-01-05 15:41:07,6955,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,จอมทอง,Samut Sakhon,,1
-2021-01-05 15:41:07,6954,54.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,จอมทอง,Samut Sakhon,,1
-2021-01-05 15:41:07,6953,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6952,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6951,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บ้านแพ้ว,Samut Sakhon,,1
-2021-01-05 15:41:07,6950,36.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6949,59.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6948,14.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,บ้านแพ้ว,Samut Sakhon,,1
-2021-01-05 15:41:07,6947,51.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6946,20.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
-2021-01-05 15:41:07,6945,19.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,กระทุ่มแบน,Samut Sakhon,,1
-2021-01-05 15:41:07,6944,53.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6943,26.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6942,23.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6941,64.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6940,60.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6939,24.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6938,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6937,30.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6936,20.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6935,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6934,36.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6933,56.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6932,33.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6931,42.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6930,36.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6929,29.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6928,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6927,55.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6926,35.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:07,6925,30.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:06,6924,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:06,6923,58.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:06,6922,39.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางละมุง,Samut Sakhon,,1
-2021-01-05 15:41:06,6921,75.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,นาหมื่น,Samut Sakhon,,1
-2021-01-05 15:41:06,6920,34.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,ปากเกร็ด,Samut Sakhon,,1
-2021-01-05 15:41:06,6919,29.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,ปากเกร็ด,Samut Sakhon,,1
-2021-01-05 15:41:06,6918,42.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6917,58.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6916,25.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6915,37.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6914,61.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,ปากเกร็ด,Samut Sakhon,,1
-2021-01-05 15:41:06,6913,52.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,ปากเกร็ด,Samut Sakhon,,1
-2021-01-05 15:41:06,6912,40.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6911,60.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6910,49.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6909,10.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6908,38.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6907,54.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6906,33.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,เมือง,Samut Sakhon,,1
-2021-01-05 15:41:06,6905,39.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6904,61.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6903,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,บางใหญ่,Samut Sakhon,,1
-2021-01-05 15:41:06,6902,46.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,ปากเกร็ด,Samut Sakhon,,1
-2021-01-05 15:41:06,6901,38.0,หญิง,Female,Thailand,Thailand,ลำพูน,54,บางใหญ่,Lamphun,,1
-2021-01-05 15:41:06,6900,48.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,พรหมบุรี,Bangkok,,1
-2021-01-05 15:41:06,6899,25.0,หญิง,Female,Germany,Germany,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6898,47.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6897,32.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6896,30.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,กาบเชิง,Bangkok,,1
-2021-01-05 15:41:06,6895,75.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6894,59.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6893,51.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางปลาม้า,Bangkok,,1
+2021-01-05 15:41:07,6963,47.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6962,43.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6961,12.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6960,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6959,56.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6958,70.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6957,70.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6956,21.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6955,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6954,54.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6953,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6952,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6951,45.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6950,36.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6949,59.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6948,14.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6947,51.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6946,20.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6945,19.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6944,53.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6943,26.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6942,23.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6941,64.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6940,60.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6939,24.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6938,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6937,30.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6936,20.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6935,40.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6934,36.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6933,56.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6932,33.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6931,42.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6930,36.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6929,29.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6928,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6927,55.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6926,35.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:07,6925,30.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6924,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6923,58.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6922,39.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6921,75.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6920,34.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6919,29.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6918,42.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6917,58.0,ชาย,Male,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6916,25.0,หญิง,Female,Burma,Burmese,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6915,37.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6914,61.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6913,52.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6912,40.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6911,60.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6910,49.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6909,10.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6908,38.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6907,54.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6906,33.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6905,39.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6904,61.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6903,53.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6902,46.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:06,6901,38.0,หญิง,Female,Thailand,Thailand,ลำพูน,54,ลี้,Lamphun,,1
+2021-01-05 15:41:06,6900,48.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,จอมทอง,Bangkok,,1
+2021-01-05 15:41:06,6899,25.0,หญิง,Female,Germany,Germany,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:06,6898,47.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:06,6897,32.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วังทองหลาง,Bangkok,,1
+2021-01-05 15:41:06,6896,30.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:06,6895,75.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางรัก,Bangkok,,1
+2021-01-05 15:41:06,6894,59.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,หนองจอก,Bangkok,,1
+2021-01-05 15:41:06,6893,51.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,ปทุมวัน,Bangkok,,1
 2021-01-05 15:41:06,6892,39.0,ชาย,Male,Thailand,Thailand,นครศรีธรรมราช,22,เมือง,Nakhon Si Thammarat,,1
-2021-01-05 15:41:06,6891,60.0,ชาย,Male,China,China,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
-2021-01-05 15:41:06,6890,44.0,ชาย,Male,Vietnam,Vietnam,กรุงเทพมหานคร,1,บ้านลาด,Bangkok,,1
-2021-01-05 15:41:06,6889,36.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางปะหัน,Bangkok,,1
-2021-01-05 15:41:06,6888,47.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,มหาราช,Bangkok,,1
-2021-01-05 15:41:06,6887,20.0,หญิง,Female,Thailand,Thailand,อุบลราชธานี,77,ท่าช้าง,Ubon Ratchathani,,1
-2021-01-05 15:41:06,6886,21.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,บางกอกใหญ่,Bangkok,,1
-2021-01-05 15:41:06,6885,40.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ธนบุรี,Bangkok,,1
+2021-01-05 15:41:06,6891,60.0,ชาย,Male,China,China,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:06,6890,44.0,ชาย,Male,Vietnam,Vietnam,กรุงเทพมหานคร,1,วัฒนา,Bangkok,,1
+2021-01-05 15:41:06,6889,36.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ราษฎร์บูรณะ,Bangkok,,1
+2021-01-05 15:41:06,6888,47.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,เมือง,Bangkok,,1
+2021-01-05 15:41:06,6887,20.0,หญิง,Female,Thailand,Thailand,อุบลราชธานี,77,บางบัวทอง,Ubon Ratchathani,,1
+2021-01-05 15:41:06,6886,21.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,ภาษีเจริญ,Bangkok,,1
+2021-01-05 15:41:06,6885,40.0,หญิง,Female,Thailand,Thailand,กรุงเทพมหานคร,1,พญาไท,Bangkok,,1
 2021-01-05 15:41:06,7031,,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:06,6884,70.0,ชาย,Male,China,China,กรุงเทพมหานคร,1,พรหมบุรี,Bangkok,,1
-2021-01-05 15:41:06,6883,56.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,กระทุ่มแบน,Bangkok,,1
+2021-01-05 15:41:06,6884,70.0,ชาย,Male,China,China,กรุงเทพมหานคร,1,,Bangkok,,1
+2021-01-05 15:41:06,6883,56.0,ชาย,Male,Thailand,Thailand,กรุงเทพมหานคร,1,บางกอกน้อย,Bangkok,,1
 2021-01-05 15:41:05,7030,,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
 2021-01-05 15:41:05,7029,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
 2021-01-05 15:41:05,7028,,ไม่ระบุเพศ,Unknown,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
@@ -2707,7 +3124,7 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2021-01-05 15:41:04,7008,48.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
 2021-01-05 15:41:04,7007,43.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
 2021-01-05 15:41:04,7006,58.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:41:04,7005,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
+2021-01-05 15:41:04,7005,34.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,เมืองสุพรรณบุรี,Samut Sakhon,,1
 2021-01-05 15:41:04,7004,21.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:04,7003,51.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:04,7002,36.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
@@ -2729,11 +3146,11 @@ ConfirmDate,No,Age,Gender,GenderEn,Nation,NationEn,Province,ProvinceId,District,
 2021-01-05 15:41:00,6990,22.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:41:00,6989,10.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:40:59,6988,40.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
-2021-01-05 15:40:58,7274,50.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:40:58,7273,39.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:40:58,7272,,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:40:58,7271,51.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
-2021-01-05 15:40:58,7270,26.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,,Chonburi,,1
+2021-01-05 15:40:58,7274,50.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:40:58,7273,39.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:40:58,7272,,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บางละมุง,Chonburi,,1
+2021-01-05 15:40:58,7271,51.0,หญิง,Female,Thailand,Thailand,ชลบุรี,9,ศรีราชา,Chonburi,,1
+2021-01-05 15:40:58,7270,26.0,ชาย,Male,Thailand,Thailand,ชลบุรี,9,บ้านฉาง,Chonburi,,1
 2021-01-05 15:40:58,7269,28.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:40:58,7268,50.0,ชาย,Male,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
 2021-01-05 15:40:58,7267,69.0,หญิง,Female,Thailand,Thailand,สมุทรสาคร,62,,Samut Sakhon,,1
