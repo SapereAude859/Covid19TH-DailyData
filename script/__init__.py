@@ -10,12 +10,8 @@ print(
 
 endpoints = ["cases", "timeline", "area"]
 url = (
-    "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/24ac8406-0cf9-4f8e-a55e-b53cf6766d1a"
-    "/download/pm-covid19-adj-9-1-2021.csv"
-)
-url2 = (
     "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/329f684b-994d-476b-91a4-62b2ea00f29f"
-    "/download/pm-covid19-adj-10-1-2021.csv"
+    "/download/pm-21-jan-2021.csv "
 )
 sheets = ["data", "watchout", "risk", "patient"]
 away_url = "https://docs.google.com/spreadsheets/u/0/d/11Gx-Wc2bXb2pAcwKT4jcuLLZ0BYoCrjixo54UxX3KTw/pubhtml"
@@ -41,7 +37,7 @@ for endpoint in endpoints:
         api_data = Import("https://covid19.th-stat.com/api/open/" + endpoint).daily()
         Export(api_data, endpoint, "dataset")
 
-    data_gov = Import(url).gov(url2)
+    data_gov = Import(url).gov()
     Export(data_gov, "Data-Gov", "dataset")
 try:
     data_gov_week = Week(data_gov).gov()

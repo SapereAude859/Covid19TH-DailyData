@@ -34,13 +34,13 @@ class ImportData:
         else:
             print("Api Not Working Technical Problem")
 
-    def gov(self, url):
+    def gov(self):
         r = session.get(self.url)
-        r2 = session.get(url)
+        # r2 = session.get(url)
         if r.status_code == 200:
-            data_gov1 = pd.read_csv(r.html.url)
-            data_gov2 = pd.read_csv(r2.html.url)
-            data_gov = data_gov1.append(data_gov2)
+            data_gov = pd.read_csv(r.html.url)
+            # data_gov2 = pd.read_csv(r2.html.url)
+            # data_gov = data_gov1.append(data_gov2)
             # print(data_gov.dtypes)
             return data_gov
         else:
