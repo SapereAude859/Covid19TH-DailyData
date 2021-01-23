@@ -42,3 +42,5 @@ id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,
 40,patient_has_been_here,2021-01-19,Central embassy,13.74395671,100.5458681,0,0,0,0,0,ดีเจมะตูม เปิดไทม์ไลน์ ล่าสุด เข้ารับการรักษาแล้ว หลังพบติดโควิด-19,https://today.line.me/th/v2/article/pp5xe7,0
 41,patient_has_been_here,2021-01-19,Foodland Thestreet Rachada,13.77018438,100.5720987,0,0,0,0,0,ดีเจมะตูม เปิดไทม์ไลน์ ล่าสุด เข้ารับการรักษาแล้ว หลังพบติดโควิด-19,https://today.line.me/th/v2/article/pp5xe7,0
 42,patient_has_been_here,2021-01-19,ตลาดปิ่นทอง บางบอน,13.68349666,100.4403141,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  22 มค.,https://www.facebook.com/earthpongsakornk/posts/449145319828702,0
+43,confirmed,2021-01-23,ร้าน cc-oo  icon siam,13.72659978,100.5094696,0,0,0,0,0,ไอคอนสยาม สั่งปิดร้านภายในศูนย์การค้า หลังพบพนักงานติดโควิด,https://today.line.me/th/v2/article/0WaWGl,0
+44,confirmed,2021-01-23,ร้าน CP-Hilai Harbour icon siam,13.72689292,100.50937,0,0,0,0,0,ไอคอนสยาม สั่งปิดร้านภายในศูนย์การค้า หลังพบพนักงานติดโควิด,https://today.line.me/th/v2/article/0WaWGl,0
