@@ -28,6 +28,9 @@ class WeekAnalyze:
         return df_week
 
     def gov(self):
+        self.df["notification_date"] = pd.to_datetime(
+            self.df["notification_date"], format="%m/%d/%Y"
+        )
         df_week = self.df[
             self.df.notification_date
             > datetime.datetime.now() - pd.to_timedelta("14day")
