@@ -163,3 +163,4 @@ id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,
 161,patient_has_been_here,2021-01-24,Maria garden restuarant,13.86748347,100.4526764,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  31 มค.,https://www.facebook.com/earthpongsakornk/posts/455454052531162,0
 162,patient_has_been_here,2021-01-28,ตลาดนัดสายไหม,13.92160509,100.6679682,0,0,0,0,0,ตลาดนัดสายไหม​แจ้งผลตรวจเชื้อโควิด-19 ของผู้ค้าในแผง​ ข้าวมันไก่ เป็นบวก 1 ราย,https://web.facebook.com/permalink.php?story_fbid=2793010280917181&id=2007100666174817,0
 163,sanitizing,2021-01-31,polli's cafe,13.72654449,100.5997291,0,0,0,0,0,polli's cafe ปิดร้านทำความสะอาด,https://nineentertain.mcot.net/top-story-2477666,0
+164,patient_has_been_here,2021-02-02,มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน,14.02205306,99.99050403,0,0,0,0,0,นิสิตม.เกษตร ติด 'โควิด' เผยเดินทางมาจากสมุทรสาคร หลังเปิดเรียนวันแรก,https://today.line.me/th/v2/article/k1kpqJ,0
