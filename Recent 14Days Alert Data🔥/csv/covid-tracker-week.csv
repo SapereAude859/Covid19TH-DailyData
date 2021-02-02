@@ -1,16 +1,4 @@
 id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,source,parentcase
-122,patient_has_been_here,2021-01-19,ตึก GMM Grammy,13.74344039,100.5628862,0,0,0,0,0,ดีเจ/พิธีกรชื่อดัง เปิดไทม์ไลน์ ล่าสุด เข้ารับการรักษาแล้ว หลังพบติดโควิด-19,https://today.line.me/th/v2/article/pp5xe7,0
-123,patient_has_been_here,2021-01-19,Central embassy,13.74395671,100.5458681,0,0,0,0,0,ดีเจ/พิธีกรชื่อดัง เปิดไทม์ไลน์ ล่าสุด เข้ารับการรักษาแล้ว หลังพบติดโควิด-19,https://today.line.me/th/v2/article/pp5xe7,0
-124,patient_has_been_here,2021-01-19,Foodland Thestreet Rachada,13.77018438,100.5720987,0,0,0,0,0,ดีเจ/พิธีกรชื่อดัง เปิดไทม์ไลน์ ล่าสุด เข้ารับการรักษาแล้ว หลังพบติดโควิด-19,https://today.line.me/th/v2/article/pp5xe7,0
-125,patient_has_been_here,2021-01-19,ตลาดปิ่นทอง บางบอน,13.68349666,100.4403141,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  22 มค.,https://www.facebook.com/earthpongsakornk/posts/449145319828702,0
-126,patient_has_been_here,2021-01-19,สวนลุมพินี,13.73137163,100.5413752,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  27 มค.,https://web.facebook.com/earthpongsakornk/posts/452138166196084,0
-127,patient_has_been_here,2021-01-19,BTS  สถานีสุรศักดิ์,13.71923763,100.521516,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  27 มค.,https://web.facebook.com/earthpongsakornk/posts/452138166196084,0
-128,patient_has_been_here,2021-01-19,BTS  สถานีพร้อมพงษ์,13.73037664,100.5697438,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  27 มค.,https://web.facebook.com/earthpongsakornk/posts/452138166196084,0
-129,patient_has_been_here,2021-01-19,Fitness First เดอะมอลล์ งามวงศ์วาน,13.85623413,100.5422377,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  28 มค.,https://web.facebook.com/earthpongsakornk/posts/452956482780919,0
-130,patient_has_been_here,2021-01-19,วัดปริวาสราชสงคราม พระราม3,13.67368844,100.533187,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  28 มค.,https://web.facebook.com/earthpongsakornk/posts/452956482780919,0
-131,patient_has_been_here,2021-01-19,ตลาดรวยยิ่งรวย ท่าข้าม บางขุนเทียน,13.65374287,100.4482713,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  30 มค.,https://www.facebook.com/earthpongsakornk/posts/454073426002558,0
-132,patient_has_been_here,2021-01-19,True Terminal 21,13.73765406,100.560089,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  31 มค.,https://www.facebook.com/earthpongsakornk/posts/455454052531162,0
-133,patient_has_been_here,2021-01-19,Samsung Terminal 21,13.73792402,100.560468,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  31 มค.,https://www.facebook.com/earthpongsakornk/posts/455454052531162,0
 134,patient_has_been_here,2021-01-20,เซ็นทรัล ลาดพร้าว,13.8162659,100.5609521,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  27 มค.,https://web.facebook.com/earthpongsakornk/posts/452138166196084,0
 135,patient_has_been_here,2021-01-20,ร้านเอ๋ ซีฟู้ด บรรทัดทอง,13.74049535,100.522359,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  26 มค.,https://web.facebook.com/earthpongsakornk/posts/451507699592464,0
 136,patient_has_been_here,2021-01-20,The mall งามวงศ์วาน,13.85569344,100.542084,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  24 มค.,https://web.facebook.com/earthpongsakornk/posts/450525269690707,0
