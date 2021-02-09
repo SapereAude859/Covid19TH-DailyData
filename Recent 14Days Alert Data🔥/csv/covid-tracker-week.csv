@@ -3,5 +3,7 @@ id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,
 97,patient_has_been_here,2021-01-28,ตลาดนัดสายไหม,13.92160509,100.6679682,0,0,0,0,0,ตลาดนัดสายไหม​แจ้งผลตรวจเชื้อโควิด-19 ของผู้ค้าในแผง​ ข้าวมันไก่ เป็นบวก 1 ราย,https://web.facebook.com/permalink.php?story_fbid=2793010280917181&id=2007100666174817,0
 98,unspecified_location,2021-01-28,โรงงานแถว ถ.เพชรเกษม เขตภาษีเจริญ,13.71657541,100.4430568,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  3 กพ.,https://www.facebook.com/earthpongsakornk/posts/456692252407342,0
 99,patient_has_been_here,2021-01-30,ตลาดบางแค,13.71191258,100.4275328,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  7 กพ.,https://www.facebook.com/earthpongsakornk/posts/459053292171238,0
-100,sanitizing,2021-01-31,polli's cafe,13.72654449,100.5997291,0,0,0,0,0,polli's cafe ปิดร้านทำความสะอาด,https://nineentertain.mcot.net/top-story-2477666,0
-101,patient_has_been_here,2021-02-02,มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน,14.02205306,99.99050403,0,0,0,0,0,นิสิตม.เกษตร ติด 'โควิด' เผยเดินทางมาจากสมุทรสาคร หลังเปิดเรียนวันแรก,https://today.line.me/th/v2/article/k1kpqJ,0
+100,patient_has_been_here,2021-01-30,ตลาดนัดปากทางหมู่บ้านเศรษฐกิจ,13.70913342,100.3775196,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  8 กพ.,https://www.facebook.com/earthpongsakornk/posts/459702178773016,0
+101,sanitizing,2021-01-31,polli's cafe,13.72654449,100.5997291,0,0,0,0,0,polli's cafe ปิดร้านทำความสะอาด,https://nineentertain.mcot.net/top-story-2477666,0
+102,patient_has_been_here,2021-02-01,ตลาดบางแค,13.71187991,100.4275505,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  8 กพ.,https://www.facebook.com/earthpongsakornk/posts/459702178773016,0
+103,patient_has_been_here,2021-02-02,มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน,14.02205306,99.99050403,0,0,0,0,0,นิสิตม.เกษตร ติด 'โควิด' เผยเดินทางมาจากสมุทรสาคร หลังเปิดเรียนวันแรก,https://today.line.me/th/v2/article/k1kpqJ,0
