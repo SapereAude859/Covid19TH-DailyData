@@ -1,14 +1,4 @@
 id,status,date,placename,lat,lng,age,gender,nationality,from,patientstatus,note,source,parentcase
-78,patient_has_been_here,2021-02-01,ตลาดบางแค,13.71187991,100.4275505,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  8 กพ.,https://www.facebook.com/earthpongsakornk/posts/459702178773016,0
-79,patient_has_been_here,2021-02-01,central eastville,13.8024451,100.6150688,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-80,patient_has_been_here,2021-02-01,TOT จามจุรีสแควร์,13.73297,100.5312183,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-81,patient_has_been_here,2021-02-01,AIS จามจุรีสแควร์,13.73284921,100.5310277,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-82,patient_has_been_here,2021-02-01,DTAC จามจุรีสแควร์,13.73275779,100.5306012,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-83,patient_has_been_here,2021-02-01,ยาโยอิ จามจุรีสแควร์,13.73278269,100.5301812,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-84,patient_has_been_here,2021-02-01,ตลาดสินรวยดี,13.7111331,100.4158913,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
-85,patient_has_been_here,2021-02-01,ร้านไผ่ทองโภชนา หลังสำนักงานเขตบางขุนเทียน,13.66197767,100.4351676,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  10 กพ.,https://www.facebook.com/earthpongsakornk/posts/460994015310499,0
-86,patient_has_been_here,2021-02-01,flash express ตรงข้ามซอยบางขุนเทียน 14,13.66606482,100.4313473,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  10 กพ.,https://www.facebook.com/earthpongsakornk/posts/460994015310499,0
-87,patient_has_been_here,2021-02-01,ลานจอดรถหอประชุมใหญ่ จุฬา,13.73866391,100.5327032,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  11 กพ.,https://www.facebook.com/earthpongsakornk/posts/461555448587689,0
 88,patient_has_been_here,2021-02-02,มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน,14.02205306,99.99050403,0,0,0,0,0,นิสิตม.เกษตร ติด 'โควิด' เผยเดินทางมาจากสมุทรสาคร หลังเปิดเรียนวันแรก,https://today.line.me/th/v2/article/k1kpqJ,0
 89,patient_has_been_here,2021-02-02,ลานพระรูปจุฬา,13.7384795,100.5317281,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  9 กพ.,https://www.facebook.com/earthpongsakornk/posts/460298838713350,0
 90,patient_has_been_here,2021-02-03,อาคารจามจุรี 5,13.73818758,100.5288896,0,0,0,0,0, กทม.เปิดไทม์ไลน์ ผู้ป่วยโควิด  ประจำวันที่  10 กพ.,https://www.facebook.com/earthpongsakornk/posts/460994015310499,0
