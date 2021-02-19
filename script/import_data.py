@@ -20,8 +20,7 @@ class ImportData:
             data_exe = ctx.execute(function)
             cases_data = pd.DataFrame(data_exe["state"]["cases"])
             return cases_data
-        else:
-            print("Source Not Working Technical Problem")
+        print("Source Not Working Technical Problem")
 
     def daily(self):
         r = session.get(self.url, allow_redirects=False)
@@ -29,7 +28,7 @@ class ImportData:
             api_data = r.json()["Data"]
             util.c_list(api_data)
             return pd.DataFrame(api_data)
-        elif r.status_code == 301:
+        if r.status_code == 301:
             print("Api Not Working Redirect to https://ddc.moph.go.th/viralpneumonia/")
         else:
             print("Api Not Working Technical Problem")
@@ -43,8 +42,7 @@ class ImportData:
             # data_gov = data_gov1.append(data_gov2)
             # print(data_gov.dtypes)
             return data_gov
-        else:
-            print("Source Not Working Technical Issue")
+        print("Source Not Working Technical Issue")
 
     def away(self):
         r = session.get(self.url)
