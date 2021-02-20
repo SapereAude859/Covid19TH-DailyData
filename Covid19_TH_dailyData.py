@@ -1,4 +1,5 @@
 import script
 
+covid19_th_data = script
 if __name__ == "__main__":
-    script
+    covid19_th_data
