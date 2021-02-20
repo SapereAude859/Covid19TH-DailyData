@@ -67,7 +67,7 @@ class ZipData:
         )
 
     def get_file_path(self):
-        for root, directories, files in os.walk(self.dir_name):
+        for root, files in os.walk(self.dir_name):
             for filename in files:
                 file_path = os.path.join(root, filename)
                 self.file_paths.append(file_path)
