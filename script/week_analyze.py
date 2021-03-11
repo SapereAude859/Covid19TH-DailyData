@@ -11,6 +11,7 @@ class WeekAnalyze:
     def __init__(self, data):
         self.df = data
 
+    # ->Covid Tracker Shutdown Services
     def tracker(self):
         self.df["date"] = pd.to_datetime(self.df["date"], format="%Y-%m-%d")
         df_week = self.df[
@@ -28,11 +29,11 @@ class WeekAnalyze:
         return df_week
 
     def gov(self):
-        self.df["Notification date"] = pd.to_datetime(
-            self.df["Notification date"], format="%m/%d/%Y"
+        self.df["notification_date"] = pd.to_datetime(
+            self.df["notification_date"], format="%m/%d/%Y"
         )
         df_week = self.df[
-            self.df["Notification date"]
+            self.df.notification_date
             > datetime.datetime.now() - pd.to_timedelta("14day")
         ]
         return df_week
