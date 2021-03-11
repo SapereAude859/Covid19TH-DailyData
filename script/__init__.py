@@ -16,12 +16,13 @@ url = (
 sheets = ["data", "watchout", "risk", "patient"]
 away_url = "https://docs.google.com/spreadsheets/u/0/d/11Gx-Wc2bXb2pAcwKT4jcuLLZ0BYoCrjixo54UxX3KTw/pubhtml"
 
-cases_data = Import("https://covidtracker.5lab.co/").tracker()
-Export(cases_data, "covid-tracker", "dataset")
-cases_data_week = Week(cases_data).tracker()
-Export(cases_data_week, "covid-tracker-week", "Recent 14Days Alert Data🔥")
-new_wave_tracker = Wave(cases_data).tracker()
-Export(new_wave_tracker, "new-wave-tracker", "New Wave Data🔥")
+# ->Covid Tracker Shutdown Services
+# cases_data = Import("https://covidtracker.5lab.co/").tracker()
+# Export(cases_data, "covid-tracker", "dataset")
+# cases_data_week = Week(cases_data).tracker()
+# Export(cases_data_week, "covid-tracker-week", "Recent 14Days Alert Data🔥")
+# new_wave_tracker = Wave(cases_data).tracker()
+# Export(new_wave_tracker, "new-wave-tracker", "New Wave Data🔥")
 
 for endpoint in endpoints:
     if endpoint == "cases":

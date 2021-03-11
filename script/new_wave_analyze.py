@@ -5,6 +5,7 @@ class NewWave:
     def __init__(self, data):
         self.df = data
 
+    # ->Covid Tracker Shutdown Services
     def tracker(self):
         self.df["date"] = pd.to_datetime(self.df["date"], format="%Y-%m-%d")
         new_wave_start = self.df["date"] >= "2020-12-17"

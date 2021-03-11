@@ -10,6 +10,7 @@ class ImportData:
     def __init__(self, url):
         self.url = url
 
+    # ->Covid Tracker Shutdown Services
     def tracker(self):
         ctx = py_mini_racer.MiniRacer()
         tracker_xpath = "/html/body/script[1]/text()"
