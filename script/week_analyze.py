@@ -1,6 +1,7 @@
 import pandas as pd
 import datetime
 from pathlib import Path
+from script import utility as util
 
 week_path = Path()
 extensions = ["csv", "xlsx", "json"]
@@ -29,11 +30,11 @@ class WeekAnalyze:
         return df_week
 
     def gov(self):
-        self.df["notification_date"] = pd.to_datetime(
-            self.df["notification_date"], format="%m/%d/%Y"
+        self.df["announce_date"] = pd.to_datetime(
+            self.df["announce_date"], format="%d/%m/%Y"
         )
         df_week = self.df[
-            self.df.notification_date
+            self.df["announce_date"]
             > datetime.datetime.now() - pd.to_timedelta("14day")
         ]
         return df_week

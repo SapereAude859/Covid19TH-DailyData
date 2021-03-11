@@ -11,7 +11,7 @@ print(
 endpoints = ["cases", "timeline", "area"]
 url = (
     "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/329f684b-994d-476b-91a4-62b2ea00f29f"
-    "/download/pm-21-jan-2021.csv "
+    "/download/pm-9-mar-2021.csv "
 )
 sheets = ["data", "watchout", "risk", "patient"]
 away_url = "https://docs.google.com/spreadsheets/u/0/d/11Gx-Wc2bXb2pAcwKT4jcuLLZ0BYoCrjixo54UxX3KTw/pubhtml"

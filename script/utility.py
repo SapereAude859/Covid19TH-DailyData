@@ -1,10 +1,12 @@
 import re
+from datetime_matcher import DatetimeMatcher
 
 html_tag = r".*<.*?>"
 common = r"\""
 datetime_str = r"[0-3]\d/[01]\d/(19|20)\d{2}\s[0-2]\d:[0-5]\d"
 date_str = r"[0-3]\d/[01]\d/(19|20)\d{2}"
 func_pat = r"(function.*)\);"
+date_pat = ["%d/%m/%Y", "%d %m %Y"]
 
 
 # Cleaning Function
@@ -29,3 +31,10 @@ def m_func(script):
     match = re.search(func_pat, script[0])
     function = match.group(1)
     return function
+
+
+# DatetimeMatcher
+def date_match(date):
+    dtmatcher = DatetimeMatcher()
+    for pat in date_pat:
+        dtmatcher.match(date, pat)
