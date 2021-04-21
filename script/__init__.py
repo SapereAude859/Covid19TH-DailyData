@@ -10,8 +10,8 @@ print(
 
 endpoints = ["cases", "timeline", "area"]
 url = (
-    "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/b4a75b94-96a5-493b-92e8-e006b58a4be2"
-    "/download/pm-17-04-64-editv1.csv"
+    "https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/d838f9b0-f8ad-4223-86c7-c380f8589da1"
+    "/download/pm-21-04-64v1.csv "
 )
 sheets = ["data", "watchout", "risk", "patient"]
 away_url = "https://docs.google.com/spreadsheets/u/0/d/11Gx-Wc2bXb2pAcwKT4jcuLLZ0BYoCrjixo54UxX3KTw/pubhtml"
